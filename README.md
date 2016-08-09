@@ -3,6 +3,10 @@ Applied Computational Genomics Course at UU: Spring 2017
 Aaron Quinlan
 Full semester course, Tu/Th
 
+# Prerequisites
+- Online introduction to Linux (TBD)
+- Need to put together a homogenous computing environment for the students to use
+
 # Syllabus
 - Lecture 1 (Tu Jan 10; Quinlan): What is a genome?
     - Focus on the human genome
