@@ -175,6 +175,6 @@
     - Mutation versus polymorphism
 - **Lecture 29 (Th Apr 20; Quinlan): Class project**
     - Questions, group discussion
-- Lecture 30 (Tu Apr 25; Quinlan): Final class
+- **Lecture 30 (Tu Apr 25; Quinlan): Final class**
     - Group presentations
     - Class evaluations
