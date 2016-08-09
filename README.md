@@ -11,8 +11,11 @@
 - Lecture 1 (Tu Jan 10; Quinlan): What is a genome?
     - Focus on the human genome
     - Chromosomes
-    - Repeat content
+    - Repeats
+    - Mobile elements
     - Genes
+    - Chromatin
+    - Chromatin modifications
     - Transcripts
     - Promoters
     - Enhancers
@@ -21,7 +24,9 @@
     - Genome architecture
 - Lecture 2 (Th Jan 12; Quinlan): Using UNIX to find patterns in a genome
     - pattern matching
+    - head
     - grep
+    - cut
     - sort
     - uniq
     - basic regular expressions
@@ -72,9 +77,21 @@
     - Homework (due Feb 2)
 - Lecture 9 (Tu Feb 7; Quinlan): Annotating genetic variation
     - Concepts
+        - e.g, synonymous, non-synonymous
+        - frameshift
+        - stopgain
+        - conservation
     - Tools
+        - Polyphen
+        - CADD
+        - VEP
+        - SnpEff
     - Homework (due Feb 2)
 - Lecture 10 (Th Feb 9; Quinlan): Prioritizing genetic variation in studies of disease
+    - Mendelian disease focus
+    - Inheritance patterns
+    - Population frequency
+    - Functional consequence
 - Lecture 11 (Tu Feb 14; Yandell): Genome annotation
     - How and why do we annotate a genome?
     - Repeatmasker
