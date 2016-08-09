@@ -1,5 +1,7 @@
 # applied-computational-genomics
 Applied Computational Genomics Course at UU: Spring 2017
+Aaron Quinlan
+Full semester course, Tu/Th
 
 # Syllabus
 - Lecture 1 (Tu Jan 10; Quinlan): What is a genome?
