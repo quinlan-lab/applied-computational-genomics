@@ -1,7 +1,7 @@
-# applied-computational-genomics
-Applied Computational Genomics Course at UU: Spring 2017
-Aaron Quinlan
-Full semester course, Tu/Th
+# Applied Computational Genomics Course at UU: Spring 2017
+- Aaron Quinlan
+- Full semester course, Tu/Th
+- January 9 - April 25
 
 # Prerequisites
 - Online introduction to Linux (TBD)
