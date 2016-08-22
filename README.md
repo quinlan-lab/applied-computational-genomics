@@ -2,6 +2,7 @@
 - Aaron Quinlan
 - Full semester course, Tu/Th
 - January 9 - April 25
+- 2 credit hours
 
 # Overview
 This course will provide a comprehensive introduction to fundamental concepts and experimental approaches in the analysis and interpretation of experimental genomics data. It will be structured as a series of lectures covering key concepts and analytical strategies. A diverse range of biological questions enabled by modern DNA sequencing technologies will be explored including sequence alignment, the identification of genetic variation, structural variation, and ChIP-seq and RNA-seq analysis. Students will learn and apply the fundamental data formats and analysis strategies that underlie computational genomics research. The primary goal of the course is for students to be grounded in theory and have the ability to conduct independent genomic analyses.
