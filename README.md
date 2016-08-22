@@ -8,6 +8,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
 
 # Prerequisites
 - Online introduction to Linux (TBD)
+- An Apple computer or a windows machine with Putty installed.
+- Need TAs
 - Need to put together a homogenous computing environment for the students to use
 
 # Other ideas
