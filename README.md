@@ -10,6 +10,9 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - Online introduction to Linux (TBD)
 - Need to put together a homogenous computing environment for the students to use
 
+# Other ideas
+- Lecture on the history of computational biology - with a focus on genomics.
+
 # Syllabus
 - **Lecture 1 (Tu Jan 10; Quinlan): What is a genome?**
     - Focus on the human genome
