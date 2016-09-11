@@ -8,7 +8,9 @@
 This course will provide a comprehensive introduction to fundamental concepts and experimental approaches in the analysis and interpretation of experimental genomics data. It will be structured as a series of lectures covering key concepts and analytical strategies. A diverse range of biological questions enabled by modern DNA sequencing technologies will be explored including sequence alignment, the identification of genetic variation, structural variation, and ChIP-seq and RNA-seq analysis. Students will learn and apply the fundamental data formats and analysis strategies that underlie computational genomics research. The primary goal of the course is for students to be grounded in theory and have the ability to conduct independent genomic analyses.
 
 # Prerequisites
-- Online introduction to Linux (TBD)
+- Online introduction to Linux. Students must complete the following two online tutorials before class begins. If they don't things will be very complicated very quickly.
+  - https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile
+  - http://korflab.ucdavis.edu/Unix_and_Perl/current.html#part1 
 - An Apple computer or a windows machine with Putty installed.
 - Need TAs
 - Need to put together a homogenous computing environment for the students to use
