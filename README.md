@@ -20,6 +20,16 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - Lecture on the history of computational biology - with a focus on genomics.
 
 # Syllabus
+- **Lecture 0: A brief history of human evolution**
+    - Pre-human history
+    - Out of africa
+    - Explosive population growth
+    - 30 generations ago, 2^30: 1066 AD. A billion ancestors is more than the entore population then.
+    - Genetic variation: shared versus individual
+    - Hands of cards analogy
+    - The effect of recombination and sexual reproduction
+    - Mutation
+    - Explosive population growth
 - **Lecture 1 (Tu Jan 10; Quinlan): What is a genome?**
     - Focus on the human genome
     - Chromosomes
