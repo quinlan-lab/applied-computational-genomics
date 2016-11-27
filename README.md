@@ -11,7 +11,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
 # Prerequisites
 - Online introduction to Linux. Students must complete the following two online tutorials before class begins. If they don't things will be very complicated very quickly.
   - https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile
-  - http://korflab.ucdavis.edu/Unix_and_Perl/current.html#part1 
+  - http://korflab.ucdavis.edu/Unix_and_Perl/current.html#part1
+  - http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof
 - An Apple computer or a windows machine with Putty installed.
 - Need TAs
 - Need to put together a homogenous computing environment for the students to use
