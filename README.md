@@ -10,12 +10,12 @@ This course will provide a comprehensive introduction to fundamental concepts an
 
 # Prerequisites
 - Online introduction to Linux. Students must complete the following two online tutorials before class begins. If they don't things will be very complicated very quickly.
-  - https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile
-  - http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof
-- An Apple computer or a windows machine with Putty installed.
+  - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
+  - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
+- An Apple or Linux computer. Or a Windows machine with [Putty[(http://www.putty.org/) installed.
 
 # Syllabus
-- **Lecture 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
+- **Class 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
     - **Required** Reading Prior to Lecture: 
         - Part 1 of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
     - Topics covered
@@ -28,13 +28,13 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - File system
             - Files
             - Basic commands
-- **Lecture 2 (Th Jan 12; Quinlan): Intro to UNIX Part 2**
+- **Class 2 (Th Jan 12; Quinlan): Intro to UNIX Part 2**
     - **Required** Reading Prior to Lecture: 
         - Part 2 (Advanced UNIX) of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
     - Topics covered
         - Intro. to UNIX: Part 2
     - **Homework 1 assigned. (due by start of class, Jan 17)**
-- **Lecture 3 (Tu Jan 17; Quinlan): What is a genome?**
+- **Class 3 (Tu Jan 17; Quinlan): What is a genome?**
     - **Required** Reading Prior to Lecture: 
         - [Initial sequencing and analysis of the human genome](http://www.nature.com/nature/journal/v409/n6822/full/409860a0.html)
     - Topics covered
@@ -57,7 +57,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - segmental duplication
       - GC content, banding
       - CpG islands  
-- **Lecture 4 (Th Jan 19; Quinlan): Using UNIX to find patterns in a genome**
+- **Class 4 (Th Jan 19; Quinlan): Using UNIX to find patterns in a genome**
     - **Required** Reading Prior to Lecture:    
         - None.     
     - Topics covered
@@ -73,7 +73,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Basic regular expressions
       - Unix pipes
     - **Homework 2 assigned (due Jan 24)**
-- **Lecture 5 (Tu Jan 24; Quinlan): Mutation, recombination and genetic variation**
+- **Class 5 (Tu Jan 24; Quinlan): Mutation, recombination and genetic variation**
     - **Required** Reading Prior to Lecture: 
         - [A global reference for human genetic variation](http://www.nature.com/nature/journal/v526/n7571/full/nature15393.html)
     - Topics covered
@@ -89,7 +89,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - INDELs
       - SV and CNV
       - Human mutation rates
-- **Lecture 6 (Th Jan 26; Quinlan): Modern DNA sequencing technologies**
+- **Class 6 (Th Jan 26; Quinlan): Modern DNA sequencing technologies**
     - **Required** Reading Prior to Lecture: 
         - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
     - Topics covered
@@ -102,7 +102,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Base calling
         - FASTQ format
     - **Homework 3 (working with the FASTQ format) assigned (due Jan 31)**
-- **Lecture 7 (Tu Jan 31; Quinlan): DNA sequence alignment**
+- **Class 7 (Tu Jan 31; Quinlan): DNA sequence alignment**
     - **Required** Reading Prior to Lecture: 
         - [Alignment of Next-Generation Sequencing Reads](http://www.annualreviews.org/doi/abs/10.1146/annurev-genom-090413-025358?journalCode=genom)
     - Topics covered
@@ -117,7 +117,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - The SAM/BAM format
       - samtools and IGV
     - **Homework 4 (creating and working with SAM/BAM files with samtools and IGV) assigned (due Feb 2)**
-- **Lecture 8 (Th Feb 2; Quinlan and/or Marth): Detecting genetic variation, part 1**
+- **Class 8 (Th Feb 2; Quinlan and/or Marth): Detecting genetic variation, part 1**
     - **Required** Reading Prior to Lecture: 
         - [A framework for variation discovery and genotyping using next-generation DNA sequencing data](http://www.nature.com/ng/journal/v43/n5/full/ng.806.html)
     - **Optional** Reading Prior to Lecture: 
@@ -137,8 +137,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - low depth
           - high error rate
           - ambiguous alignment
-      - Single sample detection
-- **Lecture 9 (Tu Feb 7; Quinlan): Detecting genetic variation, part 2**
+      - Single sample variant detection
+- **Class 9 (Tu Feb 7; Quinlan): Detecting genetic variation, part 2**
     - **Required** Reading Prior to Lecture: 
         - [The VCF format and VCFtools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218/)
     - Topics covered
@@ -152,7 +152,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - IGV
     - Manipulating VCF with bcftools
     - **Homework 5 (variant calling and working with VCF files with bcftools and UNIX) assigned (due Feb 9)**
-- **Lecture 10 (Th Feb 9; Quinlan): Annotating of genetic variation**
+- **Class 10 (Th Feb 9; Quinlan): Annotating of genetic variation**
     - **Required** Reading Prior to Lecture: 
         - [Choice of transcripts and software has a large effect on variant annotation](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543)
     - Topics covered
@@ -170,7 +170,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - VEP
         - SnpEff
     - **Homework 6 (annotating and profiling VCF files) assigned (due Feb 14)**
-- **Lecture 11 (Tu Feb 14; Quinlan): Exome sequencing in studies of human disease**
+- **Class 11 (Tu Feb 14; Quinlan): Exome sequencing in studies of human disease**
     - **Required** Reading Prior to Lecture: 
         - [Exome sequencing as a tool for Mendelian disease gene discovery](http://www.nature.com/nrg/journal/v12/n11/full/nrg3031.html)
     - Topics covered
@@ -183,7 +183,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - Variant annotation
             - Using population allele frequency
     - **Homework 6 (variant prioritization with snpeff, gqt, and bcftools) assigned (due Feb 14)**
-- **Lecture 12 (Th Feb 16; Quinlan): Somatic mutation in cancer and "healthy" tissue**
+- **Class 12 (Th Feb 16; Quinlan): Somatic mutation in cancer and "healthy" tissue**
     - **Required** Reading Prior to Lecture: 
         - [Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples](http://www.nature.com/nbt/journal/v31/n3/full/nbt.2514.html)
     - Topics covered
@@ -194,7 +194,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - why is it so hard?
         - Using mutation to track cancer evolution
         - Mosaicism and disease
-- **Lecture 13 (Tu Feb 21; Quinlan): Variation in genome structure**
+- **Class 13 (Tu Feb 21; Quinlan): Variation in genome structure**
     - **Required** Reading Prior to Lecture: 
         - [Genome structural variation discovery and genotyping](http://www.nature.com/nrg/journal/v12/n5/full/nrg2958.html)
     - Topics covered
@@ -208,7 +208,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - SV detection
         - Examples
     - **Homework 7 (visualizing SV and CNV) assigned (due Feb 23)**
-- **Lecture 14 (Th Feb 23; Quinlan): Genome annotation**
+- **Class 14 (Th Feb 23; Quinlan): Genome annotation**
     - **Required** Reading Prior to Lecture: 
         - None
     - Topics covered
@@ -220,7 +220,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - DNA methylations
       - Linkage blocks
   - **Homework 8 (exploring genome annotation files with UNIX) assigned (due Feb 28)**
-- **Lecture 15 (Tu Feb 28; Quinlan): Genome data formats and genome arithmetic**
+- **Class 15 (Tu Feb 28; Quinlan): Genome data formats and genome arithmetic**
     - **Required** Reading Prior to Lecture: 
         - None
     - Topics covered
@@ -231,7 +231,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Recap BAM format
       - UCSC and Biomart to retrieve genome annotations
       - UCSC and IGV to visualize 
-- **Lecture 16 (Th Mar 2; Quinlan): Applied genome arithmetic with bedtools; part 1**
+- **Class 16 (Th Mar 2; Quinlan): Applied genome arithmetic with bedtools; part 1**
     - **Required** Reading Prior to Lecture: 
         - [BEDTools: the Swiss‐army tool for genome feature analysis](http://onlinelibrary.wiley.com/doi/10.1002/0471250953.bi1112s47/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=)
     - Topics covered
@@ -239,62 +239,59 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Basic concepts of genome arithmetic
       - Introduction to bedtools
     - **Homework 9 (basic genome arithmetic with bedtools) assigned (due Feb 28)**
-- **Lecture 17 (Tu Mar 7; Quinlan): Applied genome arithmetic with bedtools; part 2**
-- **Lecture 18 (Th Mar 9; Quinlan): Digging deeper into UNIX, part 1**
+- **Class 17 (Tu Mar 7; Quinlan): Applied genome arithmetic with bedtools; part 2**
+- **Class 18 (Th Mar 9; Quinlan): Digging deeper into UNIX, part 1**
     - awk
     - sed
     - tr
     - basic math and stats on the command line
-    - Homework (due Mar 7)
-- **Lecture 19 (Tu Mar 14; Quinlan): ChIP-seq principles**
+- **Class 19 (Tu Mar 14; Quinlan): ChIP-seq principles**
     - experimental design
     - protocols
     - examples
-- **Lecture 20 (Th Mar 16; Quinlan): ChIP-seq analysis**
+- **Class 20 (Th Mar 16; Quinlan): ChIP-seq analysis**
     - analyses
     - motif detection, PSSMs
     - toolsets
-    - Homework (due Mar 14)
-- **Lecture 21 (Tu Mar 21; Quinlan): RNA-seq principles**
+- **Class 21 (Tu Mar 21; Quinlan): RNA-seq principles**
     - experimental design
     - protocols
     - examples
-- **Lecture 22 (Th Mar 23; Quinlan): RNA-seq analysis**
+- **Class 22 (Th Mar 23; Quinlan): RNA-seq analysis**
     - analyses
     - toolsets
-    - Homework (due Mar 21)
-- **Lecture 23 (Tu Mar 28; Quinlan): Basic probability**
+- **Class 23 (Tu Mar 28; Quinlan): Basic probability**
     - Probability with coins and dice
     - Probability with DNA
     - Conditional probabilities
     - Use R for examples
     - Homework (due Mar 23)
-- **Lecture 24 (Th Mar 30; Quinlan): Probability distributions**
+- **Class 24 (Th Mar 30; Quinlan): Probability distributions**
     - Binomial
     - Gaussian
     - Poisson
     - Applications
-- **Lecture 25 (Tu Apr 4; Quinlan): How do I know if my observation is significant?**
+- **Class 25 (Tu Apr 4; Quinlan): How do I know if my observation is significant?**
     - Models
     - Expectation
     - Tests for significance
-- **Lecture 26 (Th Apr 6; Quinlan): Data visualization, part 1**
+- **Class 26 (Th Apr 6; Quinlan): Data visualization, part 1**
     - Why
     - Pattern recognition
     - Detect problems
     - Ansombe’s quartet
     - **Introduce class projects**
-- **Lecture 27 (Tu Apr 11; Quinlan): Data visualization, part 2**
+- **Class 27 (Tu Apr 11; Quinlan): Data visualization, part 2**
     - http://www.nature.com/collections/qghhqm/pointsofsignificance
     - Scatter plots
     - Histograms
     - Box whiskers
-- **Lecture 28 (Th Apr 13; Quinlan): Digging deeper into UNIX, part 2**
+- **Class 28 (Th Apr 13; Quinlan): Digging deeper into UNIX, part 2**
     - loops
     - shuffling
     - randomization
     - advanced commands
     - basic scripts and pipelines
-- **Lecture 29 (Tu Apr 18; Quinlan): Advanced topics**
+- **Class 29 (Tu Apr 18; Quinlan): Advanced topics**
 - **Class 30 (Th Apr 20; Quinlan): Group Presentations, part 1**
-- **Class 30 (Tu Apr 25; Quinlan): Group Presentations, part 2**
+- **Class 31 (Tu Apr 25; Quinlan): Group Presentations, part 2**
