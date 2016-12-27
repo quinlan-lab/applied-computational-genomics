@@ -240,11 +240,10 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Introduction to bedtools
     - **Homework 9 (basic genome arithmetic with bedtools) assigned (due Feb 28)**
 - **Lecture 17 (Tu Mar 7; Quinlan): Applied genome arithmetic with bedtools; part 2**
-- **Lecture 18 (Th Mar 9; Quinlan): Digging deeper into UNIX**
+- **Lecture 18 (Th Mar 9; Quinlan): Digging deeper into UNIX, part 1**
     - awk
     - sed
     - tr
-    - basic scripts and pipelines
     - basic math and stats on the command line
     - Homework (due Mar 7)
 - **Lecture 19 (Tu Mar 14; Quinlan): ChIP-seq principles**
@@ -275,40 +274,27 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - Gaussian
     - Poisson
     - Applications
-- **Lecture 25 (Tu Apr 4; Quinlan): Data visualization, part 1**
+- **Lecture 25 (Tu Apr 4; Quinlan): How do I know if my observation is significant?**
+    - Models
+    - Expectation
+    - Tests for significance
+- **Lecture 26 (Th Apr 6; Quinlan): Data visualization, part 1**
     - Why
     - Pattern recognition
     - Detect problems
     - Ansombe’s quartet
-- **Lecture 26 (Th Apr 6; Quinlan): Data visualization, part 2**
+    - **Introduce class projects**
+- **Lecture 27 (Tu Apr 11; Quinlan): Data visualization, part 2**
     - http://www.nature.com/collections/qghhqm/pointsofsignificance
     - Scatter plots
     - Histograms
     - Box whiskers
-    
-TODO
-
-- **Lecture 27 (Tu Apr 11; Quinlan): Class project introduction: identifying and characterizing de novo mutations in genomes**
-    - work in pairs
-    - de novo mutation and human disease
-    - Project (due Apr 25)
-        - introduce problem and dataset
-            - dataset with 4 families of 4
-            - they must find the mutation causing a different disease phenotype in each family
-- **Lecture 26 (Th Apr 6; Quinlan): Class project**
-    - Introduction to gemini
-    - Hands on
-- **Lecture 27 (Tu Apr 11; Quinlan): Class project**
-    - Gemini de novo tutorial, Q and A
-- **Lecture 28 (Th Apr 13; Quinlan): Class project**
-    - OMIM
-    - ClinVar
-    - ExAC
-- **Lecture 29 (Tu Apr 18; Quinlan): Class project**
-    - Common artifacts in identifying de novo mutations
-    - Mutation versus polymorphism
-- **Lecture 29 (Th Apr 20; Quinlan): Class project**
-    - Questions, group discussion
-- **Lecture 30 (Tu Apr 25; Quinlan): Final class**
-    - Group presentations
-    - Class evaluations
+- **Lecture 28 (Th Apr 13; Quinlan): Digging deeper into UNIX, part 2**
+    - loops
+    - shuffling
+    - randomization
+    - advanced commands
+    - basic scripts and pipelines
+- **Lecture 29 (Tu Apr 18; Quinlan): Advanced topics**
+- **Class 30 (Th Apr 20; Quinlan): Group Presentations, part 1**
+- **Class 30 (Tu Apr 25; Quinlan): Group Presentations, part 2**
