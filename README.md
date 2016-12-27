@@ -188,7 +188,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Mendelian disease analysis
             - Variant annotation
             - Using population allele frequency
-    - **Homework 6 (variant prioritization with snpeff, gqt, and bcftools) assigned (due Feb 14)**
+    - **Homework 6 (variant prioritization with snpeff, gqt, and bcftools) assigned (due Feb 16)**
 - **Class 12 (Th Feb 16; Quinlan): Somatic mutation in cancer and "healthy" tissue**
     - **Required** Reading Prior to Lecture: 
         - [Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples](http://www.nature.com/nbt/journal/v31/n3/full/nbt.2514.html)
@@ -244,7 +244,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - The genome as a coordinate system revisited
       - Basic concepts of genome arithmetic
       - Introduction to bedtools
-    - **Homework 9 (basic genome arithmetic with bedtools) assigned (due Feb 28)**
+    - **Homework 9 (basic genome arithmetic with bedtools) assigned (due Mar 7)**
 - **Class 17 (Tu Mar 7; Quinlan): Applied genome arithmetic with bedtools; part 2**
 - **Class 18 (Th Mar 9; Quinlan): Digging deeper into UNIX, part 1**
     - awk
