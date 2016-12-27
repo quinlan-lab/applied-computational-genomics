@@ -223,6 +223,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - examples
 - **Lecture 18 (Th Mar 9; Quinlan): ChIP-seq analysis**
     - analyses
+    - motif detection, PSSMs
     - toolsets
     - Homework (due Mar 14)
 - **Lecture 19 (Tu Mar 14; Quinlan): RNA-seq principles**
