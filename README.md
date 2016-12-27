@@ -180,7 +180,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - CADD
         - VEP
         - SnpEff
-    - Homework (due Feb 2)
 - **Lecture 12 (Th Feb 16; Quinlan): Annotating a genome**
     - **Required** Reading Prior to Lecture: 
         - None
