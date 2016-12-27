@@ -152,20 +152,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - IGV
     - Manipulating VCF with bcftools
     - **Homework 5 (variant calling and working with VCF files with bcftools and UNIX) assigned (due Feb 9)**
-- **Lecture 10 (Th Feb 9; Quinlan): Exome sequencing in studies of human disease**
-    - **Required** Reading Prior to Lecture: 
-        - [Exome sequencing as a tool for Mendelian disease gene discovery](http://www.nature.com/nrg/journal/v12/n11/full/nrg3031.html)
-    - Topics covered
-        - Exome capture
-        - Variant detection in families
-          - Mendelian inheritance
-          - Mendelian violations (de novo mutations, LoH, uniparental disomy)
-        - The Exome Aggregation Consortium
-        - Mendelian disease analysis
-            - Variant annotation
-            - Using population allele frequency
-    - **Homework 6 (variant annotation and prioritization with SnpEff) assigned (due Feb 14)**
-- **Lecture 11 (Tu Feb 14; Quinlan): Annotating of genetic variation continued**
+- **Lecture 10 (Th Feb 9; Quinlan): Annotating of genetic variation**
     - **Required** Reading Prior to Lecture: 
         - [Choice of transcripts and software has a large effect on variant annotation](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543)
     - Topics covered
@@ -177,10 +164,50 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - impact of transcript model
     - Tools
         - Polyphen
+        - SIFT
+        - vcfanno
         - CADD
         - VEP
         - SnpEff
-- **Lecture 12 (Th Feb 16; Quinlan): Annotating a genome**
+    - **Homework 6 (annotating and profiling VCF files) assigned (due Feb 14)**
+- **Lecture 11 (Tu Feb 14; Quinlan): Exome sequencing in studies of human disease**
+    - **Required** Reading Prior to Lecture: 
+        - [Exome sequencing as a tool for Mendelian disease gene discovery](http://www.nature.com/nrg/journal/v12/n11/full/nrg3031.html)
+    - Topics covered
+        - Exome capture
+        - Variant detection in families
+          - Mendelian inheritance
+          - Mendelian violations (de novo mutations, LoH, uniparental disomy)
+        - The Exome Aggregation Consortium
+        - Mendelian disease analysis
+            - Variant annotation
+            - Using population allele frequency
+    - **Homework 6 (variant prioritization with snpeff, gqt, and bcftools) assigned (due Feb 14)**
+- **Lecture 12 (Th Feb 16; Quinlan): Somatic mutation in cancer and "healthy" tissue**
+    - **Required** Reading Prior to Lecture: 
+        - [Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples](http://www.nature.com/nbt/journal/v31/n3/full/nbt.2514.html)
+    - Topics covered
+        - Sources of mutation
+        - Mutational landscape
+        - Tumor heterogeneity
+        - Somatic mutation detetion
+            - why is it so hard?
+        - Using mutation to track cancer evolution
+        - Mosaicism and disease
+- **Lecture 13 (Tu Feb 21; Quinlan): Variation in genome structure
+    - **Required** Reading Prior to Lecture: 
+        - [Genome structural variation discovery and genotyping](http://www.nature.com/nrg/journal/v12/n5/full/nrg2958.html)
+    - Topics covered
+        - The genome is repetitive
+        - Segmental duplication
+        - SV versus CNV
+        - SV Mechanisms
+            - NAHR / ectopic recombination
+            - NHEJ
+            - Replication mechansism
+        - SV detection
+    - **Homework 7 (variant prioritization with snpeff, gqt, and bcftools) assigned (due Feb 14)**
+- **Lecture 12 (Th Feb 23; Quinlan): Genome annotation**
     - **Required** Reading Prior to Lecture: 
         - None
     - Topics covered
