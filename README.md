@@ -245,53 +245,45 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - sed
     - tr
     - basic math and stats on the command line
-- **Class 19 (Tu Mar 14; Quinlan): ChIP-seq principles**
+- **Class 19 (Tu Mar 21; Quinlan): ChIP-seq analysis**
     - experimental design
     - protocols
     - examples
-- **Class 20 (Th Mar 16; Quinlan): ChIP-seq analysis**
-    - analyses
-    - motif detection, PSSMs
-    - toolsets
-- **Class 21 (Tu Mar 21; Quinlan): RNA-seq principles**
-    - experimental design
-    - protocols
-    - examples
-- **Class 22 (Th Mar 23; Quinlan): RNA-seq analysis**
+- **Class 20 (Th Mar 23; Quinlan): RNA-seq analysis**
     - analyses
     - toolsets
-- **Class 23 (Tu Mar 28; Quinlan): Basic probability**
+- **Class 21 (Tu Mar 28; Quinlan): Basic probability**
     - Probability with coins and dice
     - Probability with DNA
     - Conditional probabilities
     - Use R for examples
     - Homework (due Mar 23)
-- **Class 24 (Th Mar 30; Quinlan): Probability distributions**
+- **Class 22 (Th Mar 30; Quinlan): Probability distributions**
     - Binomial
     - Gaussian
     - Poisson
     - Applications
-- **Class 25 (Tu Apr 4; Quinlan): How do I know if my observation is significant?**
+- **Class 23 (Tu Apr 4; Quinlan): How do I know if my observation is significant?**
     - Models
     - Expectation
     - Tests for significance
-- **Class 26 (Th Apr 6; Quinlan): Data visualization, part 1**
+- **Class 24 (Th Apr 6; Quinlan): Data visualization, part 1**
     - Why
     - Pattern recognition
     - Detect problems
     - Ansombe’s quartet
     - **Introduce class projects**
-- **Class 27 (Tu Apr 11; Quinlan): Data visualization, part 2**
+- **Class 25 (Tu Apr 11; Quinlan): Data visualization, part 2**
     - http://www.nature.com/collections/qghhqm/pointsofsignificance
     - Scatter plots
     - Histograms
     - Box whiskers
-- **Class 28 (Th Apr 13; Quinlan): Digging deeper into UNIX, part 2**
+- **Class 26 (Th Apr 13; Quinlan): Digging deeper into UNIX, part 2**
     - loops
     - shuffling
     - randomization
     - advanced commands
     - basic scripts and pipelines
-- **Class 29 (Tu Apr 18; Quinlan): Advanced topics**
-- **Class 30 (Th Apr 20; Quinlan): Group Presentations, part 1**
-- **Class 31 (Tu Apr 25; Quinlan): Group Presentations, part 2**
+- **Class 27 (Tu Apr 18; Quinlan): Advanced topics**
+- **Class 28 (Th Apr 20; Quinlan): Group Presentations, part 1**
+- **Class 29 (Tu Apr 25; Quinlan): Group Presentations, part 2**
