@@ -22,6 +22,10 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - Lecture on the history of computational biology - with a focus on genomics.
 
 # Syllabus
+- **Lecture 1 (Tu Jan 10; Quinlan): Course overview, computing environment, Intro. to UNIX Part 1.
+    - Required Reading Prior to Lecture: 
+        - Part 1 of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
+
 - **Lecture 0: A brief history of human evolution**
     - Pre-human history
     - Out of africa
