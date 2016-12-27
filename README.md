@@ -1,10 +1,9 @@
 # Applied Computational Genomics Course at UU: Spring 2017
-- Aaron Quinlan
-- Full semester course, Tu/Th
-- January 9 - April 25
+- Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
+- Teaching assistants: Julie Fusier, Jingtao Guo, and Tom Sasani 
+- Meets Tu and Th from 9:10-10:30 in HSEB 2948
+- January 10 - April 25
 - 2 credit hours
-- http://mcb112.org/
-- Hypothetical research problems. Theory, basic problem, how to solve.
 
 # Overview
 This course will provide a comprehensive introduction to fundamental concepts and experimental approaches in the analysis and interpretation of experimental genomics data. It will be structured as a series of lectures covering key concepts and analytical strategies. A diverse range of biological questions enabled by modern DNA sequencing technologies will be explored including sequence alignment, the identification of genetic variation, structural variation, and ChIP-seq and RNA-seq analysis. Students will learn and apply the fundamental data formats and analysis strategies that underlie computational genomics research. The primary goal of the course is for students to be grounded in theory and have the ability to conduct independent genomic analyses.
@@ -12,56 +11,72 @@ This course will provide a comprehensive introduction to fundamental concepts an
 # Prerequisites
 - Online introduction to Linux. Students must complete the following two online tutorials before class begins. If they don't things will be very complicated very quickly.
   - https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile
-  - http://korflab.ucdavis.edu/Unix_and_Perl/current.html#part1
   - http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof
 - An Apple computer or a windows machine with Putty installed.
-- Need TAs
-- Need to put together a homogenous computing environment for the students to use
 
 # Other ideas
 - Lecture on the history of computational biology - with a focus on genomics.
 
 # Syllabus
-- **Lecture 1 (Tu Jan 10; Quinlan): Course overview.
-    - Required Reading Prior to Lecture: 
+- **Lecture 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
+    - **Required** Reading Prior to Lecture: 
         - Part 1 of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
     - Topics covered
+        - Brief history of computational biology
         - Course computing environment
-        - The UNIX "shell"
         - Intro. to UNIX: Part 1
-- **Lecture 0: A brief history of human evolution**
-    - Pre-human history
-    - Out of africa
-    - Explosive population growth
-    - 30 generations ago, 2^30: 1066 AD. A billion ancestors is more than the entore population then.
-    - Genetic variation: shared versus individual
-    - Hands of cards analogy
-    - The effect of recombination and sexual reproduction
-    - Mutation
-    - Explosive population growth
-- **Lecture 1 (Tu Jan 10; Quinlan): What is a genome?**
-    - Focus on the human genome
-    - Chromosomes
-    - Repeats
-    - Mobile elements
-    - Genes
-    - Chromatin
-    - Chromatin modifications
-    - Transcripts
-    - Promoters
-    - Enhancers
-    - Transposons
-    - Genome regulation
-    - Genome architecture
-- **Lecture 2 (Th Jan 12; Quinlan): Using UNIX to find patterns in a genome**
-    - pattern matching
-    - head
-    - grep
-    - cut
-    - sort
-    - uniq
-    - basic regular expressions
-    - Homework (due Jan 17)
+            - Logging in
+            - The "shell"
+            - Navigation
+            - File system
+            - Files
+            - Basic commands
+- **Lecture 2 (Th Jan 12; Quinlan): Intro to UNIX Part 2**
+    - **Required** Reading Prior to Lecture: 
+        - Part 2 (Advanced UNIX) of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
+    - Topics covered
+        - Intro. to UNIX: Part 2
+    - Homework 1 assigned. (due by start of class, Jan 17)
+- **Lecture 3 (Tu Jan 17; Quinlan): What is a genome?**
+    - **Required** Reading Prior to Lecture: 
+        - [Initial sequencing and analysis of the human genome](http://www.nature.com/nature/journal/v409/n6822/full/409860a0.html)
+    - Topics covered
+      - How was the genome sequenced?
+        - sequencing technology
+        - assembly strategy
+      - Chromosomes
+        - size
+        - gene content
+        - centromeres
+          - alpha satellites
+      - Haplotypes
+        - recombination
+      - Genes and transcripts
+        - how many?
+        - isoforms
+      - Repeat content
+        - mobile elements
+        - simple repeats
+        - microsatellites
+        - segmental duplication
+      - GC content, banding
+      - CpG islands  
+- **Lecture 4 (Th Jan 19; Quinlan): Using UNIX to find patterns in a genome**
+    - **Required** Reading Prior to Lecture:    
+        - None.     
+    - Topics covered
+      - Thought experiment: kmers and kmer uniqueness.
+      - Restruction enzymes
+      - Origins of replication
+      - Basic pattern matching using:
+        - head
+        - grep
+        - cut
+        - sort
+        - uniq
+      - Basic regular expressions
+      - Unix pipes
+    - Homework 2 assigned (due Jan 24)
 - **Lecture 3 (Tu Jan 17; Quinlan): Mutation, genetic variation, selection, and drift**
     - What is a mutation? Mechanisms
     - Polymorphism
