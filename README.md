@@ -92,7 +92,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - INDELs
       - SV and CNV
       - Human mutation rates
-- **Lecture 6 (Th Jan 16; Quinlan): Modern DNA sequencing technologies**
+- **Lecture 6 (Th Jan 26; Quinlan): Modern DNA sequencing technologies**
     - **Required** Reading Prior to Lecture: 
         - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
     - Topics covered
@@ -141,60 +141,82 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - high error rate
           - ambiguous alignment
       - Single sample detection
-- **Lecture 9 (Th Feb 4; Quinlan): Detecting genetic variation, part 2**
+- **Lecture 9 (Tu Feb 7; Quinlan): Detecting genetic variation, part 2**
     - **Required** Reading Prior to Lecture: 
         - [The VCF format and VCFtools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218/)
     - Topics covered
         - VCF format
           - Attributes
           - Genotypes
-        - Variant detection in families
-          - Mendelian inheritance
-          - Mendelian violations (de novo mutations, LoH, uniparental disomy)
-         - Population calling
+        - Population calling
+        - Basic annotations
     - Exploring the format
         - examples
         - IGV
     - Manipulating VCF with bcftools
     - **Homework 5 (variant calling and working with VCF files with bcftools and UNIX) assigned (due Feb 9)**
-- **Lecture 9 (Tu Feb 7; Quinlan): Annotating genetic variation**
-    - Concepts
-        - e.g, synonymous, non-synonymous
-        - frameshift
-        - stopgain
-        - conservation
+- **Lecture 10 (Th Feb 9; Quinlan): Exome sequencing in studies of human disease**
+    - **Required** Reading Prior to Lecture: 
+        - [Exome sequencing as a tool for Mendelian disease gene discovery](http://www.nature.com/nrg/journal/v12/n11/full/nrg3031.html)
+    - Topics covered
+        - Exome capture
+        - Variant detection in families
+          - Mendelian inheritance
+          - Mendelian violations (de novo mutations, LoH, uniparental disomy)
+        - The Exome Aggregation Consortium
+        - Mendelian disease analysis
+            - Variant annotation
+            - Using population allele frequency
+    - **Homework 6 (variant annotation and prioritization with SnpEff) assigned (due Feb 14)**
+- **Lecture 11 (Tu Feb 14; Quinlan): Annotating of genetic variation continued**
+    - **Required** Reading Prior to Lecture: 
+        - [Choice of transcripts and software has a large effect on variant annotation](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543)
+    - Topics covered
+        - Concepts
+          - e.g, synonymous, non-synonymous
+          - frameshift
+          - stopgain
+          - constraint
+          - impact of transcript model
     - Tools
         - Polyphen
         - CADD
         - VEP
         - SnpEff
     - Homework (due Feb 2)
-- **Lecture 10 (Th Feb 9; Quinlan): Prioritizing genetic variation in studies of disease**
-    - Mendelian disease focus
-    - Inheritance patterns
-    - Population frequency
-    - Functional consequence
-- **Lecture 11 (Tu Feb 14; Yandell): Genome annotation**
-    - How and why do we annotate a genome?
-    - Repeatmasker
-    - Gene models
-    - MAKER
-- **Lecture 12 (Th Feb 16; Quinlan): Genome data formats and genome arithmetic**
-    - The genome as a coordinate system
-    - BED format
-    - GFF format
-    - Recap BAM format
-    - Concepts of genome arithmetic
-    - Applications of genome arithmetic
-    - UCSC for viz
-- **Lecture 13 (Tu Feb 21; Quinlan): Applied genome arithmetic with bedtools**
-    - Homework (due Feb 21)
-- **Lecture 14 (Th Feb 23; Quinlan): Identifying statistically significant relationships among genome interval sets**
-    - Homework (due Feb 23)
-- **Lecture 15 (Tu Feb 28; Quinlan): Digging deeper into UNIX, part 1**
-    - more useful commands
-    - applied examples
-- **Lecture 16 (Th Mar 2; Quinlan): Digging deeper into UNIX, part 2**
+- **Lecture 12 (Th Feb 16; Quinlan): Annotating a genome**
+    - **Required** Reading Prior to Lecture: 
+        - None
+    - Topics covered
+      - How and why do we annotate a genome?
+      - Conservation
+      - CpG islands
+      - Repeatmasker
+      - Chromatin modifications
+      - DNA methylations
+      - Linkage blocks
+  - **Homework 7 (exploring genome annotation files with UNIX) assigned (due Feb 21)**
+- **Lecture 13 (Tu Feb 21; Quinlan): Genome data formats and genome arithmetic**
+    - **Required** Reading Prior to Lecture: 
+        - None
+    - Topics covered
+      - The genome as a coordinate system
+      - BED format
+      - GFF format
+      - VCF format
+      - Recap BAM format
+      - UCSC and Biomart to retrieve genome annotations
+      - UCSC and IGV to visualize 
+- **Lecture 14 (Th Feb 23; Quinlan): Applied genome arithmetic with bedtools; part 1**
+    - **Required** Reading Prior to Lecture: 
+        - [BEDTools: the Swiss‐army tool for genome feature analysis](http://onlinelibrary.wiley.com/doi/10.1002/0471250953.bi1112s47/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=)
+    - Topics covered
+      - The genome as a coordinate system revisited
+      - Basic concepts of genome arithmetic
+      - Introduction to bedtools
+    - **Homework 8 (basic genome arithmetic with bedtools) assigned (due Feb 28)**
+- **Lecture 15 (Tu Feb 28; Quinlan): Applied genome arithmetic with bedtools; part 2**
+- **Lecture 16 (Th Mar 2; Quinlan): Digging deeper into UNIX**
     - pipes
     - basic scripts and pipelines
     - basic math and stats on the command line
