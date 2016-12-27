@@ -194,7 +194,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - why is it so hard?
         - Using mutation to track cancer evolution
         - Mosaicism and disease
-- **Lecture 13 (Tu Feb 21; Quinlan): Variation in genome structure
+- **Lecture 13 (Tu Feb 21; Quinlan): Variation in genome structure**
     - **Required** Reading Prior to Lecture: 
         - [Genome structural variation discovery and genotyping](http://www.nature.com/nrg/journal/v12/n5/full/nrg2958.html)
     - Topics covered
@@ -206,8 +206,9 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - NHEJ
             - Replication mechansism
         - SV detection
-    - **Homework 7 (variant prioritization with snpeff, gqt, and bcftools) assigned (due Feb 14)**
-- **Lecture 12 (Th Feb 23; Quinlan): Genome annotation**
+        - Examples
+    - **Homework 7 (visualizing SV and CNV) assigned (due Feb 23)**
+- **Lecture 14 (Th Feb 23; Quinlan): Genome annotation**
     - **Required** Reading Prior to Lecture: 
         - None
     - Topics covered
@@ -218,8 +219,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Chromatin modifications
       - DNA methylations
       - Linkage blocks
-  - **Homework 7 (exploring genome annotation files with UNIX) assigned (due Feb 21)**
-- **Lecture 13 (Tu Feb 21; Quinlan): Genome data formats and genome arithmetic**
+  - **Homework 8 (exploring genome annotation files with UNIX) assigned (due Feb 28)**
+- **Lecture 15 (Tu Feb 28; Quinlan): Genome data formats and genome arithmetic**
     - **Required** Reading Prior to Lecture: 
         - None
     - Topics covered
@@ -230,59 +231,64 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Recap BAM format
       - UCSC and Biomart to retrieve genome annotations
       - UCSC and IGV to visualize 
-- **Lecture 14 (Th Feb 23; Quinlan): Applied genome arithmetic with bedtools; part 1**
+- **Lecture 16 (Th Mar 2; Quinlan): Applied genome arithmetic with bedtools; part 1**
     - **Required** Reading Prior to Lecture: 
         - [BEDTools: the Swiss‐army tool for genome feature analysis](http://onlinelibrary.wiley.com/doi/10.1002/0471250953.bi1112s47/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=)
     - Topics covered
       - The genome as a coordinate system revisited
       - Basic concepts of genome arithmetic
       - Introduction to bedtools
-    - **Homework 8 (basic genome arithmetic with bedtools) assigned (due Feb 28)**
-- **Lecture 15 (Tu Feb 28; Quinlan): Applied genome arithmetic with bedtools; part 2**
-- **Lecture 16 (Th Mar 2; Quinlan): Digging deeper into UNIX**
-    - pipes
+    - **Homework 9 (basic genome arithmetic with bedtools) assigned (due Feb 28)**
+- **Lecture 17 (Tu Mar 7; Quinlan): Applied genome arithmetic with bedtools; part 2**
+- **Lecture 18 (Th Mar 9; Quinlan): Digging deeper into UNIX**
+    - awk
+    - sed
+    - tr
     - basic scripts and pipelines
     - basic math and stats on the command line
     - Homework (due Mar 7)
-- **Lecture 17 (Tu Mar 7; Quinlan): ChIP-seq principles**
+- **Lecture 19 (Tu Mar 14; Quinlan): ChIP-seq principles**
     - experimental design
     - protocols
     - examples
-- **Lecture 18 (Th Mar 9; Quinlan): ChIP-seq analysis**
+- **Lecture 20 (Th Mar 16; Quinlan): ChIP-seq analysis**
     - analyses
     - motif detection, PSSMs
     - toolsets
     - Homework (due Mar 14)
-- **Lecture 19 (Tu Mar 14; Quinlan): RNA-seq principles**
+- **Lecture 21 (Tu Mar 21; Quinlan): RNA-seq principles**
     - experimental design
     - protocols
     - examples
-- **Lecture 20 (Th Mar 16; Quinlan): RNA-seq analysis**
+- **Lecture 22 (Th Mar 23; Quinlan): RNA-seq analysis**
     - analyses
     - toolsets
     - Homework (due Mar 21)
-- **Lecture 21 (Tu Mar 21; Quinlan): Basic probability**
+- **Lecture 23 (Tu Mar 28; Quinlan): Basic probability**
     - Probability with coins and dice
     - Probability with DNA
     - Conditional probabilities
     - Use R for examples
     - Homework (due Mar 23)
-- **Lecture 22 (Th Mar 23; Quinlan): Probability distributions**
+- **Lecture 24 (Th Mar 30; Quinlan): Probability distributions**
     - Binomial
     - Gaussian
     - Poisson
     - Applications
-- **Lecture 23 (Tu Mar 28; Quinlan): Data visualization, part 1**
+- **Lecture 25 (Tu Apr 4; Quinlan): Data visualization, part 1**
     - Why
     - Pattern recognition
     - Detect problems
     - Ansombe’s quartet
-- **Lecture 24 (Th Mar 30; Quinlan): Data visualization, part 2**
+- **Lecture 26 (Th Apr 6; Quinlan): Data visualization, part 2**
     - http://www.nature.com/collections/qghhqm/pointsofsignificance
     - Scatter plots
     - Histograms
     - Box whiskers
-- **Lecture 25 (Tu Apr 4; Quinlan): Class project introduction: identifying and characterizing de novo mutations in genomes**
+    
+TODO
+
+- **Lecture 27 (Tu Apr 11; Quinlan): Class project introduction: identifying and characterizing de novo mutations in genomes**
     - work in pairs
     - de novo mutation and human disease
     - Project (due Apr 25)
