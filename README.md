@@ -88,6 +88,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - Alleles and genotypes
           - Allele frequency spectrum
           - Hardy weinberg equilibrium
+          - Population stratification and Fixation index
       - INDELs
       - SV and CNV
       - Human mutation rates
@@ -103,44 +104,59 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Oxford nanopore
         - Base calling
         - FASTQ format
-    - **Homework 3 assigned (due Jan 31)**
-    
-    
-
-- **Lecture 5 (Tu Jan 24; Quinlan): Detecting genetic variation, part 1**
-    - FASTQ
-    - Sequence alignment
-        - Theory
-        - Tools
-    - SAM/BAM format
-    - SamTools and IGV
-    - Homework (due Jan 26)
-- **Lecture 6 (Th Jan 26; Marth): Detecting genetic variation, part 2**
-    - SNP and INDEL calling
-        - Theory
-            - Bayes theorem
-            - PolyBayes
-        - Tools
-    - Assigning a genotype
-    - Common problems and artifacts
-        - paralogy
-        - low depth
-        - high error rate
-        - ambiguous alignment
-    - Single sample detection
-    - Families
-    - Population calling
-- **Lecture 7 (Tu Jan 31; Quinlan): Detecting genetic variation, part 2**
-    - Structural and copy number variation
-- **Lecture 8 (Th Feb 2; Quinlan): Detecting genetic variation, part 3**
-    - VCF format
-        - Attributes
-        - Genotypes
+    - **Homework 3 (working with the FASTQ format) assigned (due Jan 31)**
+- **Lecture 7 (Tu Jan 31; Quinlan): DNA sequence alignment**
+    - **Required** Reading Prior to Lecture: 
+        - [Alignment of Next-Generation Sequencing Reads](http://www.annualreviews.org/doi/abs/10.1146/annurev-genom-090413-025358?journalCode=genom)
+    - Topics covered
+      - Sequence alignment
+          - Theory
+          - Mapping versus alignment
+          - Local versus global alignment
+              - Smith waterman
+              - Needleman-wunsch
+          - Basic challenges with modern DNA sequences
+          - Tools
+      - The SAM/BAM format
+      - samtools and IGV
+    - **Homework 4 (creating and working with SAM/BAM files with samtools and IGV) assigned (due Feb 2)**
+- **Lecture 8 (Th Feb 2; Quinlan and/or Marth): Detecting genetic variation, part 1**
+    - **Required** Reading Prior to Lecture: 
+        - [A framework for variation discovery and genotyping using next-generation DNA sequencing data](http://www.nature.com/ng/journal/v43/n5/full/ng.806.html)
+    - **Optional** Reading Prior to Lecture: 
+        - [A general approach to single-nucleotide polymorphism discovery.](http://www.nature.com/ng/journal/v23/n4/full/ng1299_452.html)
+    - Topics covered
+      - Polymorphism rate, nucleotide diversity, heterozygosity
+          - variation between species
+          - variation regionally within a species.
+      - SNP and INDEL calling
+          - Theory
+              - Basic concept
+              - Sequencing error
+              - Bayes theorem and priors
+      - Assigning a genotype
+      - Common problems and artifacts
+          - paralogy
+          - low depth
+          - high error rate
+          - ambiguous alignment
+      - Single sample detection
+- **Lecture 9 (Th Feb 4; Quinlan): Detecting genetic variation, part 2**
+    - **Required** Reading Prior to Lecture: 
+        - [The VCF format and VCFtools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218/)
+    - Topics covered
+        - VCF format
+          - Attributes
+          - Genotypes
+        - Variant detection in families
+          - Mendelian inheritance
+          - Mendelian violations (de novo mutations, LoH, uniparental disomy)
+         - Population calling
     - Exploring the format
         - examples
         - IGV
     - Manipulating VCF with bcftools
-    - Homework (due Feb 2)
+    - **Homework 5 (variant calling and working with VCF files with bcftools and UNIX) assigned (due Feb 9)**
 - **Lecture 9 (Tu Feb 7; Quinlan): Annotating genetic variation**
     - Concepts
         - e.g, synonymous, non-synonymous
