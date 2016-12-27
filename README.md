@@ -26,6 +26,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Intro. to UNIX: Part 1
             - Logging in
             - The "shell"
+            - "Home"
             - Navigation
             - File system
             - Files
@@ -66,15 +67,18 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Thought experiment: kmers and kmer uniqueness.
       - Restriction enzymes
       - Origins of replication
-      - Basic pattern matching using:
+      - UNIX Basics:
+        - cat
+        - less
         - head
+        - tail
         - grep
         - cut
         - sort
         - uniq
       - Basic regular expressions
       - Unix pipes
-    - **Homework 2 assigned (due Jan 24)**
+    - **Homework 2 (finding biological patterns in FASTA files with UNIX) assigned (due Jan 24)**
 - **Class 5 (Tu Jan 24; Quinlan): Mutation, recombination and genetic variation**
     - **Required** Reading Prior to Lecture: 
         - [A global reference for human genetic variation](http://www.nature.com/nature/journal/v526/n7571/full/nature15393.html)
@@ -246,7 +250,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - awk
     - sed
     - tr
-    - basic math and stats on the command line
+    - PATH
+    - .bashrc
 - **Class 19 (Tu Mar 21; Quinlan): ChIP-seq analysis**
     - experimental design
     - protocols
