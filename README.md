@@ -12,7 +12,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - Online introduction to Linux. Students must complete the following two online tutorials before class begins. If they don't things will be very complicated very quickly.
   - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
   - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
-- An Apple or Linux computer. Or a Windows machine with [Putty[(http://www.putty.org/) installed.
+- An Apple or Linux computer. Or a Windows machine with [Putty](http://www.putty.org/) installed.
 - Every student must create a Github account
 - Every student must have a gmail account to work with Google Docs.
 
