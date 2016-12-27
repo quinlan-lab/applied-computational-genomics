@@ -36,7 +36,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Part 2 (Advanced UNIX) of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
     - Topics covered
         - Intro. to UNIX: Part 2
-    - Homework 1 assigned. (due by start of class, Jan 17)
+    - **Homework 1 assigned. (due by start of class, Jan 17)**
 - **Lecture 3 (Tu Jan 17; Quinlan): What is a genome?**
     - **Required** Reading Prior to Lecture: 
         - [Initial sequencing and analysis of the human genome](http://www.nature.com/nature/journal/v409/n6822/full/409860a0.html)
@@ -50,7 +50,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - centromeres
           - alpha satellites
       - Haplotypes
-        - recombination
       - Genes and transcripts
         - how many?
         - isoforms
@@ -66,7 +65,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - None.     
     - Topics covered
       - Thought experiment: kmers and kmer uniqueness.
-      - Restruction enzymes
+      - Restriction enzymes
       - Origins of replication
       - Basic pattern matching using:
         - head
@@ -76,17 +75,38 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - uniq
       - Basic regular expressions
       - Unix pipes
-    - Homework 2 assigned (due Jan 24)
-- **Lecture 3 (Tu Jan 17; Quinlan): Mutation, genetic variation, selection, and drift**
-    - What is a mutation? Mechanisms
-    - Polymorphism
-    - SNPs
-    - INDELs
-    - SV and CNV
-    - Landscape of human genetic variation
-    - Selection and drift
-    - Homework (due Jan 24)
-- **Lecture 4 (Th Jan 19; Quinlan): Modern DNA sequencing technologies and applications**
+    - **Homework 2 assigned (due Jan 24)**
+- **Lecture 5 (Tu Jan 24; Quinlan): Mutation, recombination and genetic variation**
+    - **Required** Reading Prior to Lecture: 
+        - [A global reference for human genetic variation](http://www.nature.com/nature/journal/v526/n7571/full/nature15393.html)
+    - Topics covered
+      - Mutation and mechanisms
+      - Recombination
+      - Polymorphism
+      - SNPs
+      - Landscape of human genetic variation
+          - Alleles and genotypes
+          - Allele frequency spectrum
+          - Hardy weinberg equilibrium
+      - INDELs
+      - SV and CNV
+      - Human mutation rates
+- **Lecture 6 (Th Jan 16; Quinlan): Modern DNA sequencing technologies**
+    - **Required** Reading Prior to Lecture: 
+        - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
+    - Topics covered
+        - Sanger dideoxy sequencing
+        - Illumina sequencing
+            - Overview of technology
+            - Paired-end vs. single-end
+        - Pacbio
+        - Oxford nanopore
+        - Base calling
+        - FASTQ format
+    - **Homework 3 assigned (due Jan 31)**
+    
+    
+
 - **Lecture 5 (Tu Jan 24; Quinlan): Detecting genetic variation, part 1**
     - FASTQ
     - Sequence alignment
