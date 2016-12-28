@@ -85,9 +85,11 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - [A global reference for human genetic variation](http://www.nature.com/nature/journal/v526/n7571/full/nature15393.html)
     - Topics covered
       - Mutation and mechanisms
-      - Recombination
       - Polymorphism
       - SNPs
+      - Recombination
+        - Haplotypes
+        - Linkage disequilibrium
       - Landscape of human genetic variation
           - Alleles and genotypes
           - Allele frequency spectrum
