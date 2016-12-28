@@ -267,7 +267,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - Probability with DNA
     - Conditional probabilities
     - Use R for examples
-    - Homework (due Mar 23)
 - **Class 22 (Th Mar 30; Quinlan): Probability distributions**
     - Binomial
     - Gaussian
