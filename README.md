@@ -32,11 +32,22 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - File system
             - Files
             - Basic commands
+                - ls
+                - pwd
+                - cd
+                - mkdir
+                - head
+                - cat
+                - redirects
 - **Class 2 (Th Jan 12; Quinlan): Intro to UNIX Part 2**
     - **Required** Reading Prior to Lecture: 
         - Part 2 (Advanced UNIX) of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
     - Topics covered
         - Intro. to UNIX: Part 2
+          - grep
+          - cut
+          - sort
+          - uniq
     - **Homework 1 assigned. (due by start of class, Jan 17)**
 - **Class 3 (Tu Jan 17; Quinlan): What is a genome?**
     - **Required** Reading Prior to Lecture: 
@@ -68,17 +79,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Thought experiment: kmers and kmer uniqueness.
       - Restriction enzymes
       - Origins of replication
-      - UNIX Basics:
-        - cat
-        - less
-        - head
-        - tail
-        - grep
-        - cut
-        - sort
-        - uniq
       - Basic regular expressions
-      - Unix pipes
     - **Homework 2 (finding biological patterns in FASTA files with UNIX) assigned (due Jan 24)**
 - **Class 5 (Tu Jan 24; Quinlan): Mutation, recombination and genetic variation**
     - **Required** Reading Prior to Lecture: 
