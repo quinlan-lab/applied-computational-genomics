@@ -17,7 +17,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 
 # Syllabus
 - **Class 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
-    - [Class 1 Slides (draft)](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
+    - [Class 1 Slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
         - Part 1 of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
     - Topics covered
@@ -39,6 +39,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
                 - cat
                 - redirects
 - **Class 2 (Th Jan 12; Quinlan): Intro to UNIX Part 2**
+    - [Class 2 Slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
         - Part 2 (Advanced UNIX) of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
     - Topics covered
