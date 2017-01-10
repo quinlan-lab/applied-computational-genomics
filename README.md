@@ -45,9 +45,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Intro. to UNIX: Part 2
           - grep
           - cut
-          - sort
-          - uniq
     - **Homework 1 assigned. (due by start of class, Jan 17)**
+ 
 - **Class 3 (Tu Jan 17; Quinlan): What is a genome?**
     - **Required** Reading Prior to Lecture: 
         - [Initial sequencing and analysis of the human genome](http://www.nature.com/nature/journal/v409/n6822/full/409860a0.html)
@@ -75,6 +74,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - **Required** Reading Prior to Lecture:    
         - None.     
     - Topics covered
+      - sort
+      - uniq
       - Thought experiment: kmers and kmer uniqueness.
       - Restriction enzymes
       - Origins of replication
