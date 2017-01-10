@@ -37,7 +37,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
                 - mkdir
                 - head
                 - cat
-                - redirects
 - **Class 2 (Th Jan 12; Quinlan): Intro to UNIX Part 2**
     - [Class 2 Slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
@@ -46,6 +45,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Intro. to UNIX: Part 2
           - grep
           - cut
+          - redirects
     - **Homework 1 assigned. (due by start of class, Jan 17)**
  
 - **Class 3 (Tu Jan 17; Quinlan): What is a genome?**
