@@ -1,24 +1,24 @@
-## Applied Computational Genomics Course at UU: Spring 2017
+### Applied Computational Genomics Course at UU: Spring 2017
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
 - Teaching assistants: Tom Sasani, Julie Feusier and Jingtao Guo
 - Meets Tu and Th from 9:10-10:30 in HSEB 2948; January 10 - April 25
 
-# Overview
+### Overview
 This course will provide a comprehensive introduction to fundamental concepts and experimental approaches in the analysis and interpretation of experimental genomics data. It will be structured as a series of lectures covering key concepts and analytical strategies. A diverse range of biological questions enabled by modern DNA sequencing technologies will be explored including sequence alignment, the identification of genetic variation, structural variation, and ChIP-seq and RNA-seq analysis. Students will learn and apply the fundamental data formats and analysis strategies that underlie computational genomics research. **The primary goal of the course is for students to be grounded in theory and leave the course empowered to conduct independent genomic analyses.**
 
-# Prerequisites
+### Prerequisites
 - Online introduction to Linux. Students must complete one of the following online tutorials (or both) before class begins. 
   - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
   - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
 - An Apple or Linux computer. Or a Windows machine with [Putty](http://www.putty.org/) installed.
 
-# Course lecture slides
+### Course lecture slides
 - [All slide decks (in Google Drive)](https://drive.google.com/drive/folders/0B5Jmsvw39gJkT0dZOExrR3EwVjg)
 - [Class 1: Course overview and Intro to UNIX](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
 - [Class 2: Intro to UNIX, Part 2](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
 - [Class 3: The human genome](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
 
-# Syllabus
+### Syllabus
 - **Class 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
     - [Class 1 Slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
