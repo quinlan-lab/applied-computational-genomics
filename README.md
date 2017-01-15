@@ -1,4 +1,4 @@
-# Applied Computational Genomics Course at UU: Spring 2017
+## Applied Computational Genomics Course at UU: Spring 2017
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
 - Teaching assistants: Tom Sasani, Julie Feusier and Jingtao Guo
 - Meets Tu and Th from 9:10-10:30 in HSEB 2948; January 10 - April 25
