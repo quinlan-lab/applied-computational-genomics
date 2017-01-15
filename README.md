@@ -15,6 +15,11 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - An Apple or Linux computer. Or a Windows machine with [Putty](http://www.putty.org/) installed.
 - Every student must have a gmail account to work with Google Docs.
 
+# Course lecture slides
+[Class 1: Course overview and Intro to UNIX](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
+[Class 2: Intro to UNIX, Part 2](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
+[Class 3: The human genome](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
+
 # Syllabus
 - **Class 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
     - [Class 1 Slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
@@ -48,10 +53,16 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - redirects
     - **Homework 1 assigned. (due by start of class, Jan 17)**
  
-- **Class 3 (Tu Jan 17; Quinlan): What is a genome?**
+- **Class 3 (Tu Jan 17; Quinlan): The human genome**
+    - [Class 3 Slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
         - [Initial sequencing and analysis of the human genome](http://www.nature.com/nature/journal/v409/n6822/full/409860a0.html)
     - Topics covered
+      - Karyotype
+      - Chromosome structure
+      - Centromeres
+      - Banding
+      - Chromatin
       - How was the genome sequenced?
         - sequencing technology
         - assembly strategy
@@ -59,7 +70,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - size
         - gene content
         - centromeres
-          - alpha satellites
       - Haplotypes
       - Genes and transcripts
         - how many?
@@ -67,20 +77,20 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Repeat content
         - mobile elements
         - simple repeats
-        - microsatellites
-        - segmental duplication
       - GC content, banding
       - CpG islands  
 - **Class 4 (Th Jan 19; Quinlan): Using UNIX to find patterns in a genome**
     - **Required** Reading Prior to Lecture:    
         - None.     
     - Topics covered
-      - sort
-      - uniq
       - Thought experiment: kmers and kmer uniqueness.
       - Restriction enzymes
       - Origins of replication
-      - Basic regular expressions
+      - The UNIX PATH
+      - Environment variables
+      - Basic regular expressions with greo
+      - sort
+      - uniq
     - **Homework 2 (finding biological patterns in FASTA files with UNIX) assigned (due Jan 24)**
 - **Class 5 (Tu Jan 24; Quinlan): Mutation, recombination and genetic variation**
     - **Required** Reading Prior to Lecture: 
