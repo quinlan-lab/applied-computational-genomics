@@ -32,13 +32,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - Navigation
             - File system
             - Files
-            - Basic commands
-                - ls
-                - pwd
-                - cd
-                - mkdir
-                - head
-                - cat
+            - Basic commands: `ls`, `pwd`, `cd`, `mkdir`, `head`
 - **Class 2 (Th Jan 12; Quinlan): Intro to UNIX Part 2**
     - [Class 2 Slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
@@ -69,8 +63,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - centromeres
       - Haplotypes
       - Genes and transcripts
-        - how many?
-        - isoforms
       - Repeat content
         - mobile elements
         - simple repeats
