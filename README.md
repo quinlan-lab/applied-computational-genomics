@@ -13,7 +13,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - An Apple or Linux computer. Or a Windows machine with [Putty](http://www.putty.org/) installed.
 
 ### Course lecture slides
-- [All slide decks (in Google Drive)](https://drive.google.com/drive/folders/0B5Jmsvw39gJkT0dZOExrR3EwVjg)
+- [All slide decks (in Google Drive)](https://drive.google.com/drive/folders/0B5Jmsvw39gJkT0dZOExrR3EwVjg?usp=sharing)
 - [Class 1: Course overview and Intro to UNIX](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
 - [Class 2: Intro to UNIX, Part 2](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
 - [Class 3: The human genome](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
