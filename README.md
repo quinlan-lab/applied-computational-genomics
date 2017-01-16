@@ -78,7 +78,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Origins of replication
       - The UNIX PATH
       - Environment variables
-      - Basic regular expressions with greo
+      - UNIX permissions (read, write, execute)
+      - Basic regular expressions with grep
       - sort
       - uniq
     - **Homework 2 (finding biological patterns in FASTA files with UNIX) assigned (due Jan 24)**
