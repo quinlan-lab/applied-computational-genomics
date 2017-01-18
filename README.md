@@ -74,12 +74,12 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - **Required** Reading Prior to Lecture:    
         - None.     
     - Topics covered
+      - The UNIX PATH
+      - Environment variables
+      - Ctrl A and Ctrl E
       - Thought experiment: kmers and kmer uniqueness.
       - Restriction enzymes
       - Origins of replication
-      - The UNIX PATH
-      - Environment variables
-      - UNIX permissions (read, write, execute)
       - Basic regular expressions with grep
       - sort
       - uniq
