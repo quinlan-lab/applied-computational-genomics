@@ -80,7 +80,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Thought experiment: kmers and kmer uniqueness.
       - Restriction enzymes
       - Origins of replication
-      - Edit distnace      
+      - Edit distance      
       - Basic regular expressions with grep
       - sort
       - uniq
