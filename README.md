@@ -21,7 +21,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 
 ### Homework
 - [Homework 1: Basic Unix analysis](https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
-- [Homework 2]: DNA Pattern exploration in a FASTA file (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md)
+- [Homework 2: DNA Pattern exploration in a FASTA file] (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md)
 
 ### Syllabus
 - **Class 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
