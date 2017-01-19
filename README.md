@@ -19,6 +19,10 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - [Class 2: Intro to UNIX, Part 2](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
 - [Class 3: The human genome](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
 
+### Homework
+- [Homework 1: Basic Unix analysis](https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
+- [Homework 2]: DNA Pattern exploration in a FASTA file (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md)
+
 ### Syllabus
 - **Class 1 (Tu Jan 10; Quinlan): Course overview and Intro to UNIX**
     - [Class 1 Slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
