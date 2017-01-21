@@ -98,15 +98,12 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - frequency
         - examples
         - 1000 Genomes, ExAC
+      - Population stratification and Fixation index
+        - The fallacy of race
       - Recombination
         - Haplotypes
         - Linkage disequilibrium
-      - Landscape of human genetic variation
-          - Alleles and genotypes
-          - Allele frequency spectrum
-          - Hardy weinberg equilibrium
-          - Population stratification and Fixation index
-          - The fallacy of race
+          
 - **Class 6 (Th Jan 26; Quinlan): Modern DNA sequencing technologies**
     - **Required** Reading Prior to Lecture: 
         - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
@@ -165,6 +162,10 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - Genotypes
         - Population calling
         - Basic annotations
+    - Landscape of human genetic variation
+        - Alleles and genotypes
+        - Allele frequency spectrum
+        - Hardy weinberg equilibrium
     - Exploring the format
         - examples
         - IGV
