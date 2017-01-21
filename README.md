@@ -106,6 +106,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - Allele frequency spectrum
           - Hardy weinberg equilibrium
           - Population stratification and Fixation index
+          - The fallacy of race
 - **Class 6 (Th Jan 26; Quinlan): Modern DNA sequencing technologies**
     - **Required** Reading Prior to Lecture: 
         - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
