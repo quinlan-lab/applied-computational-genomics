@@ -99,11 +99,9 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - examples
         - 1000 Genomes
         - Site frequency spectrum
-      - Population stratification and Fixation index
-      - Recombination
-        - Haplotypes
-        - Linkage disequilibrium
-          
+      - Population stratification
+      - Intro to haplotypes and recombination
+
 - **Class 6 (Th Jan 26; Quinlan): Modern DNA sequencing technologies**
     - **Required** Reading Prior to Lecture: 
         - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
@@ -140,9 +138,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - **Optional** Reading Prior to Lecture: 
         - [A general approach to single-nucleotide polymorphism discovery.](http://www.nature.com/ng/journal/v23/n4/full/ng1299_452.html)
     - Topics covered
-      - Polymorphism rate, nucleotide diversity, heterozygosity
-          - variation between species
-          - variation regionally within a species.
       - SNP and INDEL calling
           - Theory
               - Basic concept
@@ -168,6 +163,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Alleles and genotypes
         - Allele frequency spectrum
         - Hardy weinberg equilibrium
+        - More on haplotypes and recombination
     - Exploring the format
         - examples
         - IGV
