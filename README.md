@@ -86,7 +86,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - sort
       - uniq
     - **Homework 2 (finding biological patterns in FASTA files with UNIX) assigned (due Jan 24)**
-- **Class 5 (Tu Jan 24; Quinlan): Mutation, recombination and genetic variation**
+- **Class 5 (Tu Jan 24; Quinlan): Genetic variation: mutations, polymorphisms, and haplotypes**
     - **Required** Reading Prior to Lecture: 
         - [A global reference for human genetic variation](http://www.nature.com/nature/journal/v526/n7571/full/nature15393.html)
     - Topics covered
@@ -113,6 +113,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - Paired-end vs. single-end
         - Whole-genome
         - Exome
+            - Quick overview from ExAC
         - Pacbio
         - Oxford nanopore
         - Base calling
