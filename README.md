@@ -80,11 +80,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - Topics covered
       - The UNIX PATH
       - Environment variables
-      - Ctrl A and Ctrl E
-      - Thought experiment: kmers and kmer uniqueness.
-      - Restriction enzymes
-      - Origins of replication
-      - Edit distance      
       - Basic regular expressions with grep
       - sort
       - uniq
@@ -93,9 +88,16 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - **Required** Reading Prior to Lecture: 
         - [A global reference for human genetic variation](http://www.nature.com/nature/journal/v526/n7571/full/nature15393.html)
     - Topics covered
-      - Mutation and mechanisms
+      - Genetic variation: what, why, etc.
+      - Mutation vs. polymorhism
+      - De novo mutation
+         - Human mutation rates
       - Polymorphism
-      - SNPs
+      - SNPs INDELs
+        - abundance
+        - frequency
+        - examples
+        - 1000 Genomes, ExAC
       - Recombination
         - Haplotypes
         - Linkage disequilibrium
@@ -104,9 +106,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - Allele frequency spectrum
           - Hardy weinberg equilibrium
           - Population stratification and Fixation index
-      - INDELs
-      - SV and CNV
-      - Human mutation rates
 - **Class 6 (Th Jan 26; Quinlan): Modern DNA sequencing technologies**
     - **Required** Reading Prior to Lecture: 
         - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
