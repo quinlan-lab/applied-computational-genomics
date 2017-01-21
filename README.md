@@ -97,9 +97,9 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - abundance
         - frequency
         - examples
-        - 1000 Genomes, ExAC
+        - 1000 Genomes
+        - Site frequency spectrum
       - Population stratification and Fixation index
-        - The fallacy of race
       - Recombination
         - Haplotypes
         - Linkage disequilibrium
