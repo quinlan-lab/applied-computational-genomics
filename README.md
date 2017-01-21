@@ -108,14 +108,16 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - **Required** Reading Prior to Lecture: 
         - [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
     - Topics covered
-        - Sanger dideoxy sequencing
         - Illumina sequencing
             - Overview of technology
             - Paired-end vs. single-end
+        - Whole-genome
+        - Exome
         - Pacbio
         - Oxford nanopore
         - Base calling
         - FASTQ format
+        - seqtk, fastx toolkit
     - **Homework 3 (working with the FASTQ format) assigned (due Jan 31)**
 - **Class 7 (Tu Jan 31; Quinlan): DNA sequence alignment**
     - **Required** Reading Prior to Lecture: 
