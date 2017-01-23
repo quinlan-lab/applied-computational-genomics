@@ -278,10 +278,13 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - Probability with DNA
     - Conditional probabilities
     - Use R for examples
-- **Class 22 (Th Mar 30; Quinlan): Probability distributions**
-    - Binomial
+- **Class 22 (Th Mar 30; Quinlan): Statistical tests**
     - Gaussian
-    - Poisson
+      - Z scores
+    - Chi-squared
+    - Fisher
+    - KS test
+    - Rank tests
     - Applications
 - **Class 23 (Tu Apr 4; Quinlan): How do I know if my observation is significant?**
     - Models
