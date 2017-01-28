@@ -11,6 +11,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - Online introduction to Linux. Students must complete one of the following online tutorials (or both) before class begins. 
   - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
   - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
+- Undergraduate or graduate level Molecular Biolog (for future versions of the class)
 - An Apple or Linux computer. Or a Windows machine with [Putty](http://www.putty.org/) installed.
 
 ### Course lecture slides
