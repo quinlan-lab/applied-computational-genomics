@@ -85,7 +85,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Basic regular expressions with grep
       - sort
       - uniq
-    - **Homework 2 (finding biological patterns in FASTA files with UNIX) assigned (due Jan 24)**
+    - **Homework 2 (finding biological patterns in FASTA files with UNIX) assigned**
 - **Class 5 (Tu Jan 24; Quinlan): Genetic variation: mutations, polymorphisms, and haplotypes**
     - **Required** Reading Prior to Lecture: 
         - [A global reference for human genetic variation](http://www.nature.com/nature/journal/v526/n7571/full/nature15393.html)
@@ -111,15 +111,13 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - Illumina sequencing
             - Overview of technology
             - Paired-end vs. single-end
-        - Whole-genome
-        - Exome
-            - Quick overview from ExAC
         - Pacbio
         - Oxford nanopore
         - Base calling
         - FASTQ format
         - seqtk, fastx toolkit
-    - **Homework 3 (working with the FASTQ format) assigned (due Jan 31)**
+    - **Homework 3 (working with the FASTQ format) assigned**
+
 - **Class 7 (Tu Jan 31; Quinlan): DNA sequence alignment**
     - **Required** Reading Prior to Lecture: 
         - [Alignment of Next-Generation Sequencing Reads](http://www.annualreviews.org/doi/abs/10.1146/annurev-genom-090413-025358?journalCode=genom)
@@ -130,12 +128,19 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - Local versus global alignment
               - Smith waterman
               - Needleman-wunsch
-          - Basic challenges with modern DNA sequences
+          - Advanced algorithms
+          - Alignment for RNA-seq
+          - Alignment for SV detection.
           - Tools
-      - The SAM/BAM format
-      - samtools and IGV
-    - **Homework 4 (creating and working with SAM/BAM files with samtools and IGV) assigned (due Feb 2)**
-- **Class 8 (Th Feb 2; Quinlan and/or Marth): Detecting genetic variation, part 1**
+              - BWA, etc.
+
+- **Class 8 (Th Feb 2; Quinlan): DNA sequence alignment**
+    - The SAM/BAM format
+    - Samtools
+    - IGV
+    - **Homework 4 (creating and working with SAM/BAM files with samtools and IGV) assigned**
+
+- **Class 9 (Tu Feb 7; Quinlan and/or Marth): Detecting genetic variation, part 1**
     - **Required** Reading Prior to Lecture: 
         - [A framework for variation discovery and genotyping using next-generation DNA sequencing data](http://www.nature.com/ng/journal/v43/n5/full/ng.806.html)
     - **Optional** Reading Prior to Lecture: 
@@ -153,7 +158,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - high error rate
           - ambiguous alignment
       - Single sample variant detection
-- **Class 9 (Tu Feb 7; Quinlan): Detecting genetic variation, part 2**
+- **Class 10 (Th Feb 9; Quinlan): Detecting genetic variation, part 2**
     - **Required** Reading Prior to Lecture: 
         - [The VCF format and VCFtools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218/)
     - Topics covered
@@ -171,8 +176,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - examples
         - IGV
     - Manipulating VCF with bcftools
-    - **Homework 5 (variant calling and working with VCF files with bcftools and UNIX) assigned (due Feb 9)**
-- **Class 10 (Th Feb 9; Quinlan): Annotating of genetic variation**
+    - **Homework 5 (variant calling and working with VCF files with bcftools and UNIX) assigned**
+- **Class 11 (Tu Feb 14; Quinlan): Annotating of genetic variation**
     - **Required** Reading Prior to Lecture: 
         - [Choice of transcripts and software has a large effect on variant annotation](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543)
     - Topics covered
@@ -189,8 +194,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - CADD
         - VEP
         - SnpEff
-    - **Homework 6 (annotating and profiling VCF files) assigned (due Feb 14)**
-- **Class 11 (Tu Feb 14; Quinlan): Exome sequencing in studies of human disease**
+    - **Homework 6 (annotating and profiling VCF files) assigned**
+- **Class 12 (Th Feb 16; Quinlan): Exome sequencing in studies of human disease**
     - **Required** Reading Prior to Lecture: 
         - [Exome sequencing as a tool for Mendelian disease gene discovery](http://www.nature.com/nrg/journal/v12/n11/full/nrg3031.html)
     - Topics covered
@@ -273,6 +278,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - **Class 20 (Th Mar 23; Quinlan): RNA-seq analysis**
     - analyses
     - toolsets
+    - Class project assignment
 - **Class 21 (Tu Mar 28; Quinlan): Basic probability**
     - Probability with coins and dice
     - Probability with DNA
