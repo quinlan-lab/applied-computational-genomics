@@ -22,6 +22,11 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - [Class 4: Pattern searching in the human genome](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
 - [Class 5: Genetic Variation](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
 - [Class 6: DNA sequencing technologies and FASTQ format](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
+- [Class 7: DNA sequence mapping and alignment](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
+- [Class 8: SAM/BAM format, samtools, and IGV](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+- [Class 9: SNP and INDEL discovery (part 1)](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
+- [Class 10: SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
+- [Class 11: VCF format, Hardy Weinberg Equilibrium, VCF toolkits](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
 
 ### Homework
 - [Homework 1: Basic Unix analysis](https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
