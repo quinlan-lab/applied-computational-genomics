@@ -27,6 +27,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - [Class 9: SNP and INDEL discovery (part 1)](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
 - [Class 10: SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
 - [Class 11: VCF format, Hardy Weinberg Equilibrium, VCF toolkits](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
+- [Class 12: VCF annotation and interpetation](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
+- [Class 13: Structural and copy number variation]()
 
 ### Homework
 - [Homework 1: Basic Unix analysis](https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
@@ -125,7 +127,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - seqtk, fastx toolkit
     - **Homework 3 (working with the FASTQ format) assigned**
 
-- **Class 7 (Tu Jan 31; Quinlan): DNA sequence alignment**
+- **Class 7 (Tu Jan 31; Quinlan): DNA sequence mapping and alignment](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)**
     - **Required** Reading Prior to Lecture: 
         - [Alignment of Next-Generation Sequencing Reads](http://www.annualreviews.org/doi/abs/10.1146/annurev-genom-090413-025358?journalCode=genom)
     - Topics covered
@@ -141,13 +143,13 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - Tools
               - BWA, etc.
 
-- **Class 8 (Th Feb 2; Quinlan): DNA sequence alignment**
+- **Class 8 (Th Feb 2; Quinlan): SAM/BAM format, samtools, and IGV](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)**
     - The SAM/BAM format
     - Samtools
     - IGV
     - **Homework 4 (creating and working with SAM/BAM files with samtools and IGV) assigned**
 
-- **Class 9 (Tu Feb 7; Quinlan and/or Marth): Detecting genetic variation, part 1**
+- **Class 9 (Tu Feb 7; Quinlan): SNP and INDEL discovery (part 1)](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)**
     - **Required** Reading Prior to Lecture: 
         - [A framework for variation discovery and genotyping using next-generation DNA sequencing data](http://www.nature.com/ng/journal/v43/n5/full/ng.806.html)
     - **Optional** Reading Prior to Lecture: 
@@ -165,7 +167,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
           - high error rate
           - ambiguous alignment
       - Single sample variant detection
-- **Class 10 (Th Feb 9; Quinlan): Detecting genetic variation, part 2**
+- **Class 10 (Th Feb 9; Quinlan): SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)**
     - **Required** Reading Prior to Lecture: 
         - [The VCF format and VCFtools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137218/)
     - Topics covered
@@ -184,7 +186,14 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - IGV
     - Manipulating VCF with bcftools
     - **Homework 5 (variant calling and working with VCF files with bcftools and UNIX) assigned**
-- **Class 11 (Tu Feb 14; Quinlan): Annotating of genetic variation**
+- **[Class 11 (Tu Feb 14; Quinlan): VCF format, Hardy Weinberg Equilibrium, VCF toolkits](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)**
+    - Topics covered
+        - VCF Format
+        - Allele frequencies
+        - Genotype frequencies
+        - Hardy Weinberg Equilibrium
+
+- **[Class 12 (Th Feb 16; Quinlan): VCF annotation and interpetation](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)**
     - **Required** Reading Prior to Lecture: 
         - [Choice of transcripts and software has a large effect on variant annotation](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543)
     - Topics covered
@@ -201,31 +210,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - CADD
         - VEP
         - SnpEff
-    - **Homework 6 (annotating and profiling VCF files) assigned**
-- **Class 12 (Th Feb 16; Quinlan): Exome sequencing in studies of human disease**
-    - **Required** Reading Prior to Lecture: 
-        - [Exome sequencing as a tool for Mendelian disease gene discovery](http://www.nature.com/nrg/journal/v12/n11/full/nrg3031.html)
-    - Topics covered
-        - Exome capture
-        - Variant detection in families
-          - Mendelian inheritance
-          - Mendelian violations (de novo mutations, LoH, uniparental disomy)
-        - The Exome Aggregation Consortium
-        - Mendelian disease analysis
-            - Variant annotation
-            - Using population allele frequency
-    - **Homework 6 (variant prioritization with snpeff, gqt, and bcftools) assigned (due Feb 16)**
-- **Class 12 (Th Feb 16; Quinlan): Somatic mutation in cancer and "healthy" tissue**
-    - **Required** Reading Prior to Lecture: 
-        - [Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples](http://www.nature.com/nbt/journal/v31/n3/full/nbt.2514.html)
-    - Topics covered
-        - Sources of mutation
-        - Mutational landscape
-        - Tumor heterogeneity
-        - Somatic mutation detetion
-            - why is it so hard?
-        - Using mutation to track cancer evolution
-        - Mosaicism and disease
+
 - **Class 13 (Tu Feb 21; Quinlan): Variation in genome structure**
     - **Required** Reading Prior to Lecture: 
         - [Genome structural variation discovery and genotyping](http://www.nature.com/nrg/journal/v12/n5/full/nrg2958.html)
@@ -239,8 +224,20 @@ This course will provide a comprehensive introduction to fundamental concepts an
             - Replication mechansism
         - SV detection
         - Examples
-    - **Homework 7 (visualizing SV and CNV) assigned (due Feb 23)**
-- **Class 14 (Th Feb 23; Quinlan): Genome annotation**
+   
+- **Class 14 (Th Feb 23; Marth): Somatic mutation in cancer**
+    - **Required** Reading Prior to Lecture: 
+        - [Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples](http://www.nature.com/nbt/journal/v31/n3/full/nbt.2514.html)
+    - Topics covered
+        - Sources of mutation
+        - Mutational landscape
+        - Tumor heterogeneity
+        - Somatic mutation detetion
+            - why is it so hard?
+        - Using mutation to track cancer evolution
+        - Mosaicism and disease
+
+- **Class 15 (Tu Feb 28; Quinlan): Genome annotation**
     - **Required** Reading Prior to Lecture: 
         - None
     - Topics covered
@@ -251,8 +248,8 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Chromatin modifications
       - DNA methylations
       - Linkage blocks
-  - **Homework 8 (exploring genome annotation files with UNIX) assigned (due Feb 28)**
-- **Class 15 (Tu Feb 28; Quinlan): Genome data formats and genome arithmetic**
+
+- **Class 15 (Th Mar 2; Quinlan): Genome data formats and genome arithmetic**
     - **Required** Reading Prior to Lecture: 
         - None
     - Topics covered
@@ -260,10 +257,11 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - BED format
       - GFF format
       - VCF format
-      - Recap BAM format
       - UCSC and Biomart to retrieve genome annotations
-      - UCSC and IGV to visualize 
-- **Class 16 (Th Mar 2; Quinlan): Applied genome arithmetic with bedtools; part 1**
+      - UCSC and IGV to visualize
+      - a bit of awk
+
+- **Class 16 (Tu Mar 7; Quinlan): Applied genome arithmetic with bedtools; part 1**
     - **Required** Reading Prior to Lecture: 
         - [BEDTools: the Swiss‐army tool for genome feature analysis](http://onlinelibrary.wiley.com/doi/10.1002/0471250953.bi1112s47/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=)
     - Topics covered
@@ -271,6 +269,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
       - Basic concepts of genome arithmetic
       - Introduction to bedtools
     - **Homework 9 (basic genome arithmetic with bedtools) assigned (due Mar 7)**
+
 - **Class 17 (Tu Mar 7; Quinlan): Applied genome arithmetic with bedtools; part 2**
 - **Class 18 (Th Mar 9; Quinlan): Digging deeper into UNIX, part 1**
     - awk
