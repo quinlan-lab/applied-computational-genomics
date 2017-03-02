@@ -28,7 +28,10 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - [Class 10: SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
 - [Class 11: VCF format, Hardy Weinberg Equilibrium, VCF toolkits](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
 - [Class 12: VCF annotation and interpetation](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
-- [Class 13: Structural and copy number variation]()
+- [Class 13: Structural and copy number variation](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
+- [Class 14: Somatic Mutation and Tumor Evolution]()
+- [Class 15: Genome Annotation and Resources](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
+- [Class 16: Genome Annotation Formats. And awk.](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
 
 ### Homework
 - [Homework 1: Basic Unix analysis](https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
