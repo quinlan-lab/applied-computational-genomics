@@ -161,6 +161,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
     - **Optional** Reading Prior to Lecture: 
         - [A general approach to single-nucleotide polymorphism discovery.](http://www.nature.com/ng/journal/v23/n4/full/ng1299_452.html)
     - **TODO FOR NEXT TIME**: INTRODUCE POISSON MODEL OF COVERAGE. 30X IS A DISTRIBUTION
+        - https://twitter.com/OmicsOmicsBlog/status/837829111879983104
     - Topics covered
       - SNP and INDEL calling
           - Theory
