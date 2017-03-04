@@ -160,6 +160,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
         - [A framework for variation discovery and genotyping using next-generation DNA sequencing data](http://www.nature.com/ng/journal/v43/n5/full/ng.806.html)
     - **Optional** Reading Prior to Lecture: 
         - [A general approach to single-nucleotide polymorphism discovery.](http://www.nature.com/ng/journal/v23/n4/full/ng1299_452.html)
+    - **TODO FOR NEXT TIME**: INTRODUCE POISSON MODEL OF COVERAGE. 30X IS A DISTRIBUTION
     - Topics covered
       - SNP and INDEL calling
           - Theory
