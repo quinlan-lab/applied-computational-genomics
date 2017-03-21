@@ -34,6 +34,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 - [Class 16: Genome Annotation Formats. And awk.](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
 - [Class 17: Genome arithmetic with bedtools](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
 - [Class 18: Real world analyses with bedtools.](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
+- [Class 19: ChIP-seq: applications, analysis, theory.](https://docs.google.com/presentation/d/1EydegGQR7Whc-htTxqwb4kYRoE-gRVi_nyvG1cLLjZE/edit#slide=id.g1f13a55df1_0_48)
 
 ### Homework
 - [Homework 1: Basic Unix analysis](https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
