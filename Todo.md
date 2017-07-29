@@ -1,0 +1,5 @@
+- assembly
+- simpson's paradox
+- central limit theorem
+- odds ratios
+- allelic expression
