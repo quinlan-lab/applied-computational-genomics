@@ -1,7 +1,7 @@
 ### Applied Computational Genomics Course at UU: Spring 2018
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
 - Teaching assistants: Stephanie Kravitz (snkravitz@gmail.com) and Jon Belyeu (jrbelyeu@gmail.com)
-- Meets Tu and Th from 9:10-10:30 in HSEB 2948; January 9 - April 24
+- Meets Tu and Th from 9:10-10:30 in HSEB ????; January 9 - April 24
 - TA Hours: TBD
 
 ### Overview
