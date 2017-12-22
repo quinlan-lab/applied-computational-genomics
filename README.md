@@ -45,19 +45,21 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - [Class 25: Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
 
 
+[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
+[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md)
+[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md)
+[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-md)
+[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md)
+[comment]: <> (http://quinlanlab.org/tutorials/bedtools/bedtools.html)
+
 ### Homework
 - [Homework 1: Basic Unix analysis]
-comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
 - [Homework 2: DNA Pattern exploration in a FASTA file]
-comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md)
 - [Homework 3: Working with the FASTQ format]
-comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md)
 - [Homework 4: BAM files, samtools, IGV]
-comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-md)
 - [Homework 5: Exploring genetic variation in VCF files]
-comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md)
 - [Homework 6: Bedtools analysis problems. Bottom of page]
-comment]: <> (http://quinlanlab.org/tutorials/bedtools/bedtools.html)
+
 
 ### Syllabus
 - **Class 1 (Tu Jan 9; Layer): Course overview and Intro to UNIX**
