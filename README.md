@@ -54,7 +54,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - [Homework 6: Bedtools analysis problems. Bottom of page]#(http://quinlanlab.org/tutorials/bedtools/bedtools.html)
 
 ### Syllabus
-- **Class 1 (Tu Jan 9; Quinlan): Course overview and Intro to UNIX**
+- **Class 1 (Tu Jan 9; Layer): Course overview and Intro to UNIX**
     - [Class 1 Slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
         - Part 1 of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
@@ -69,7 +69,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
             - File system
             - Files
             - Basic commands: `ls`, `pwd`, `cd`, `mkdir`, `head`
-- **Class 2 (Th Jan 11; Quinlan): Intro to UNIX Part 2**
+- **Class 2 (Th Jan 11; Layer): Intro to UNIX Part 2**
     - [Class 2 Slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - **Required** Reading Prior to Lecture: 
         - Part 2 (Advanced UNIX) of [Unix and Perl Primer for Biologists](http://korflab.ucdavis.edu/Unix_and_Perl/current.pdf)
