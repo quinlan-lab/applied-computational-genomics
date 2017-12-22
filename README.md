@@ -45,12 +45,14 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - [Class 25: Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
 
 
-[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
-[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md)
-[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md)
-[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-md)
-[comment]: <> (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md)
-[comment]: <> (http://quinlanlab.org/tutorials/bedtools/bedtools.html)
+<!---
+(https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md)
+(https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md)
+(https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md)
+(https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-md)
+(https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md)
+(http://quinlanlab.org/tutorials/bedtools/bedtools.html)
+-->
 
 ### Homework
 - [Homework 1: Basic Unix analysis]
