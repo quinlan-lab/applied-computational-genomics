@@ -18,8 +18,8 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 
 ### Course lecture slides
 - [All slide decks (in Google Drive)](https://drive.google.com/drive/folders/0B5Jmsvw39gJkT0dZOExrR3EwVjg?usp=sharing)
-- [Class 1: Course overview and Intro to UNIX](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
-- [Class 2: Intro to UNIX, Part 2](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
+- [Class 1: Course overview and Intro to UNIX: Ryan Layer](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
+- [Class 2: Intro to UNIX, Part 2: Ryan Layer](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
 - [Class 3: The human genome](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
 - [Class 4: Pattern searching in the human genome](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
 - [Class 5: Genetic Variation](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
