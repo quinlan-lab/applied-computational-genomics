@@ -37,12 +37,10 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - [Class 17: Genome arithmetic with bedtools](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
 - [Class 18: Real world analyses with bedtools.](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
 - [Class 19: ChIP-seq: applications, analysis, theory.](https://docs.google.com/presentation/d/1EydegGQR7Whc-htTxqwb4kYRoE-gRVi_nyvG1cLLjZE/edit#slide=id.g1f13a55df1_0_48)
-- [Class 20: Methods for Exploring Large-Scale Genetic Datasets (Ryan Layer).](https://github.com/quinlan-lab/applied-computational-genomics/blob/master/aaron_class_2017.pdf)
-- [Class 21: Reference-free variant detection with Rufus (Andrew Farrell).](https://github.com/quinlan-lab/applied-computational-genomics/blob/master/AaronsClass-3-30-17.pdf)
-- [Class 22: RNA-seq analysis](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit)
-- [Class 23: DESeq workshop (no slides)]()
-- [Class 24: Intro to Bash scripting](https://docs.google.com/presentation/d/1Jk0BmkdaP-fXAP4dJ5KEZB-INv6lTTae4ami2fQy0Yk/edit)
-- [Class 25: Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
+- [Class 20: RNA-seq analysis](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit)
+- [Class 21: DESeq workshop](https://docs.google.com/presentation/d/12PUdfDAc3cOseJ3GqORaCidAj7vbwQcIQa2F2QRBen0/edit#slide=id.p)
+- [Class 22: Intro to Bash scripting](https://docs.google.com/presentation/d/1Jk0BmkdaP-fXAP4dJ5KEZB-INv6lTTae4ami2fQy0Yk/edit)
+- [Class 23: Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
 
 
 <!---
