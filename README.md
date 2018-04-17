@@ -41,7 +41,8 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - [DESeq workshop](https://docs.google.com/presentation/d/12PUdfDAc3cOseJ3GqORaCidAj7vbwQcIQa2F2QRBen0/edit#slide=id.p)
 - [Intro to Bash scripting](https://docs.google.com/presentation/d/1Jk0BmkdaP-fXAP4dJ5KEZB-INv6lTTae4ami2fQy0Yk/edit)
 - [Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
-- [Continuous distributions, descriptive statistics, and the t-test](https://docs.google.com/presentation/d/14sUwqgiZuBZqwkDdOgr-hnxkChTPKbC1ZPAYDxKVE8g/edit#slide=id.p)
+- [Continuous distributions and descriptive statistics](https://docs.google.com/presentation/d/14sUwqgiZuBZqwkDdOgr-hnxkChTPKbC1ZPAYDxKVE8g/edit#slide=id.p)
+- [The Central Limit Theorem](https://docs.google.com/presentation/d/1z1lwKc22x4YsZ7j7f8SDxQwiPsACYy77iI7tv_Pto38/edit#slide=id.p)
 
 
 <!---
