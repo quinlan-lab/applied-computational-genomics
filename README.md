@@ -1,6 +1,6 @@
 ### Applied Computational Genomics Course at UU: Spring 2020
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
-- Teaching assistants: Michael Cormier (cormiermichaelj@gmail.com), Katie Owings (katie.owings@utah.edu), Ryan Miller (miller.ryan.h@gmail.com), and Mark Wadsworth (mew225@gmail.com)
+- Teaching assistants: Michael Cormier (cormiermichaelj @ gmail.com), Katie Owings (katie.owings @ utah.edu), Ryan Miller (miller.ryan.h @ gmail.com), and Mark Wadsworth (mew225 @ gmail.com)
 - Meets Tu and Th from 9:10-10:30 in EIHG Auditorium; January 7 - April 21
 - TA Hours: Monday and Wednesday, 10-11am, HSEB
 
