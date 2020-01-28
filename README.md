@@ -26,7 +26,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 23, 2020: DNA sequencing technologies and FASTQ format
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
-- [Jan 28, 2020: DNA sequence mapping and alignment](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
+- Jan 28, 2020: DNA sequence mapping and alignment
+    - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=ipejNu6poPE)
 - [Jan 30, 2020: SAM/BAM format, samtools, and IGV](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
 - [Feb 4, 2020: SNP and INDEL discovery (part 1)](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
 - [Feb 6, 2020: SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
