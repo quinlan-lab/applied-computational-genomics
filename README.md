@@ -29,7 +29,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 28, 2020: DNA sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=ipejNu6poPE)
-- [Jan 30, 2020: SAM/BAM format, samtools, and IGV](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+- Jan 30, 2020: SAM/BAM format, samtools, and IGV
+    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
 - [Feb 4, 2020: SNP and INDEL discovery (part 1)](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
 - [Feb 6, 2020: SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
 - [Feb 11, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
