@@ -32,7 +32,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 30, 2020: SAM/BAM format, samtools, and IGV
     - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
-- [Feb 4, 2020: SNP and INDEL discovery (part 1)](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
+- Feb 4, 2020: SNP and INDEL discovery (part 1)
+    - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
 - [Feb 6, 2020: SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
 - [Feb 11, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
 - [Feb 13, 2020: VCF annotation and interpetation](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
