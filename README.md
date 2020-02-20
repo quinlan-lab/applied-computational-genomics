@@ -42,7 +42,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
 - [Feb 18, 2020: VCF annotation and interpetation](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
-- [Feb 18, 2020: Structural and copy number variation](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
+- [Feb 20, 2020: Structural and copy number variation](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
 - [Feb 20, 2020: Germline mutation]()
 - [Feb 25, 2020 (Who???): Genome Annotation and Resources](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
 - [Feb 27, 2020: Genome Annotation Formats. And awk.](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
