@@ -41,17 +41,32 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 11, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
     - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
-- [Feb 18, 2020: VCF annotation and interpetation](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
-- [Feb 20, 2020: Structural and copy number variation](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
-- [Feb 20, 2020: Germline mutation]()
-- [Feb 25, 2020 (Who???): Genome Annotation and Resources](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
-- [Feb 27, 2020: Genome Annotation Formats. And awk.](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
-- [Mar 3, 2020: Genome arithmetic with bedtools](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
-- [Mar 5, 2020: Real world analyses with bedtools.](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
-- [Mar 19, 2020: Intro to RNA-seq analysis ](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit)
-- [Mar 24, 2020: Poisson Random Variables ](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit#slide=id.g60f2d8cd14_0_73)
-
-
+- Feb 18, 2020: VCF annotation and interpetation
+    - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
+- Feb 20, 2020: Structural and copy number variation
+    - [slides](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=Skfzw5LwJq0)
+- Feb 25, 2020: Genome Annotation and Resources
+    - [slides](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
+- Feb 27, 2020: Genome Annotation Formats.
+    - [slides](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=tq3GeDXbZXA)
+- Mar 3, 2020: Genome arithmetic with bedtools
+    - [slides](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=1R1KocKEzYY)
+- Mar 5, 2020: Real world analyses with bedtools.
+    - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
+- Mar 19, 2020: Intro to RNA-seq analysis
+    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+    - [youtube to do]()
+- Mar 24, 2020: Poisson Processes in Biology
+    - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
+    - [youtube to do]()
+- Mar 26, 2020: RNA-seq analysis (cont.)
+    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+    - [youtube to do]()
 - [Mar 19, 2020: DESeq workshop](https://docs.google.com/presentation/d/12PUdfDAc3cOseJ3GqORaCidAj7vbwQcIQa2F2QRBen0/edit#slide=id.p)
 - [Mar 24, 2020: Intro to Bash scripting](https://docs.google.com/presentation/d/1Jk0BmkdaP-fXAP4dJ5KEZB-INv6lTTae4ami2fQy0Yk/edit)
 - [Mar 26, 2020 (who???): Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
