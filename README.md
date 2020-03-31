@@ -10,6 +10,14 @@ This course will provide a comprehensive introduction to fundamental concepts an
 ### Grading policy
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
 
+### Stats course at the U
+https://www.huber.embl.de/msmb/Chap-Models.html
+greg Stoddard's class was aimed towards basic bio and clinical research. it was fine but used stata
+PBHLT 7100 - biostatistics 2
+There is an R-based stats class called Advanced Stastical Modeling for Biologists but it is designed for people who haven't used R and is basic ways to model stats, Don Feener
+
+
+
 ### Course lecture slides
 - [All slide decks (in Google Drive)](https://drive.google.com/drive/folders/0B5Jmsvw39gJkT0dZOExrR3EwVjg?usp=sharing)
 - [Jan 7, 2020: Course overview and Intro to UNIX](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
