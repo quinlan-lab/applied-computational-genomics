@@ -77,6 +77,8 @@ There is an R-based stats class called Advanced Stastical Modeling for Biologist
     - [youtube to do]()
 - Mar 31, 2020: The Normal Distribution and Q-Q plots
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
+- Apr 02, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
+    - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
     
 #- [Mar 19, 2020: DESeq workshop](https://docs.google.com/presentation/d/12PUdfDAc3cOseJ3GqORaCidAj7vbwQcIQa2F2QRBen0/edit#slide=id.p)
 #- [Mar 24, 2020: Intro to Bash scripting](https://docs.google.com/presentation/d/1Jk0BmkdaP-fXAP4dJ5KEZB-INv6lTTae4ami2fQy0Yk/edit)
