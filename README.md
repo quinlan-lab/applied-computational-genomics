@@ -81,12 +81,18 @@ There is an R-based stats class called Advanced Stastical Modeling for Biologist
     - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
 - April 7, 2020: The Central Limit Theorem and Confidence Intervals
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
+- April 7, 2020:  The t-statistic, t-distribution, t-tests, and p-values
+    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
+    - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
+- April 14, 2020:  Introduction to Linear Regression
+    - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
+    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
+ 
     
 #- [Mar 19, 2020: DESeq workshop](https://docs.google.com/presentation/d/12PUdfDAc3cOseJ3GqORaCidAj7vbwQcIQa2F2QRBen0/edit#slide=id.p)
 #- [Mar 24, 2020: Intro to Bash scripting](https://docs.google.com/presentation/d/1Jk0BmkdaP-fXAP4dJ5KEZB-INv6lTTae4ami2fQy0Yk/edit)
 #- [Mar 26, 2020 (who???): Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-#ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
 #- [Mar 31, 2020: Continuous distributions and descriptive statistics](https://docs.google.com/presentation/d/14sUwqgiZuBZqwkDdOgr-#hnxkChTPKbC1ZPAYDxKVE8g/edit#slide=id.p)
-
 #- [April 7, 2020: The t-statistic, t-distribution, t-tests, and p-values](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit?usp=sharing)
 #- [April 14, 2020:  Intro to regression (students watch video](https://www.youtube.com/watch?v=KekLyPeet3k)
 #- [April 17, 2020:  Group Presentations (1)]()
