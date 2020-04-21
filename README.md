@@ -87,7 +87,7 @@ There is an R-based stats class called Advanced Stastical Modeling for Biologist
 - April 14, 2020:  Introduction to Linear Regression
     - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
     - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
-- April 16, 2020: Patterns if Mutation in the Human Genome
+- April 16, 2020: Patterns of Mutation in the Human Genome
     - [slides](https://drive.google.com/file/d/1qWJysIa1XAFZ_qH-kOVRDbXKGt9e9lFZ/view?usp=sharing)
 
 
