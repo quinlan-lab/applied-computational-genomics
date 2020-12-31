@@ -3,7 +3,7 @@
 - Teaching assistants: Gage Black (), Sarah Lucas (), John Chamberlin ()
 - Meets Tu and Th from 9:10-10:30 in EIHG Auditorium; January 19, 2021 - April 27, 2021
 - TA Hours: TBD
-- Zoom Link: 
+- Zoom Link (passcode provided to enrolled students): https://utah.zoom.us/j/99667928173
 - Homework Submissions
 
 ### Overview
