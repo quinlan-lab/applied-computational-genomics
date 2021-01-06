@@ -12,34 +12,39 @@ This course will provide a comprehensive introduction to fundamental concepts an
 ### Grading policy
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
 
-### Stats course at the U
-https://www.huber.embl.de/msmb/Chap-Models.html
-greg Stoddard's class was aimed towards basic bio and clinical research. it was fine but used stata
-PBHLT 7100 - biostatistics 2
-There is an R-based stats class called Advanced Stastical Modeling for Biologists but it is designed for people who haven't used R and is basic ways to model stats, Don Feener
-
-
-
 ### Course lecture slides
-- [All slide decks (in Google Drive)](https://drive.google.com/drive/folders/0B5Jmsvw39gJkT0dZOExrR3EwVjg?usp=sharing)
-- [Jan 7, 2020: Course overview and Intro to UNIX](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
-- [Jan 9, 2020: Intro to UNIX, Part 2](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
-- Jan 14, 2020: The human genome
+- Jan 19, 2020: Course overview and Intro to UNIX
+    - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
+- Jan 21, 2020: Intro to UNIX, Part 2
+    - [slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
+- Jan 26, 2020: The human genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
-- Jan 16, 2020: Pattern searching in the human genome
+- Jan 28, 2020: Pattern searching in the human genome
     - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
     - [youtube](https://youtu.be/ngpwuFh7H5M?t=22https://youtu.be/ngpwuFh7H5M?t=22)
-- Jan 21, 2020: Genetic Variation
+- Feb 2, 2020: Intro to Data Analysis in RStudio
+    - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing) 
+- Feb 4, 2020: Data frames and Importing Data **No lecture owing to a conflict, students must go through these slides on their own**
+    - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
+- Feb 9, 2020: Intro to RNA-seq analysis
+    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+- Feb 11, 2020: More with data frames, precision v. accuracy, very basic RNA-seq analysis
+    - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
+    - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
+- Feb 16, 2020: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
-- Jan 23, 2020: DNA sequencing technologies and FASTQ format
+- Feb 18, 2020: DNA sequencing technologies and FASTQ format
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
-- Jan 28, 2020: DNA sequence mapping and alignment
+- Feb 23, 2020: DNA sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=ipejNu6poPE)
-- Jan 30, 2020: SAM/BAM format, samtools, and IGV
+- Feb 25, 2020: Poisson Processes in Biology
+    - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
+    - [youtube to do]() 
+30, 2020: SAM/BAM format, samtools, and IGV
     - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
 - Feb 4, 2020: SNP and INDEL discovery (part 1)
