@@ -2,9 +2,12 @@
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
 - Teaching assistants: Gage Black (), Sarah Lucas (), John Chamberlin ()
 - Meets virtually Tu and Th from 9:10-10:30 January 19, 2021 - April 27, 2021. **Note exceptions in syllabus below**
-- TA Hours: TBD
-- Zoom Link (passcode provided to enrolled students): https://utah.zoom.us/j/99667928173
-- Homework Submissions
+- Zoom Link for class (passcode provided to enrolled students): https://utah.zoom.us/j/99667928173
+- TA Hours (password the same as for class): 
+    - Monday (2-3PM):  https://utah.zoom.us/j/99972816514
+    - Wednesday (12-1PM):  https://utah.zoom.us/j/95069753712
+    - Friday (2-3PM): https://utah.zoom.us/j/96596071925
+- Homework Submission Links (TBD)
 
 ### Overview
 This course will provide a comprehensive introduction to fundamental concepts and experimental approaches in the analysis and interpretation of experimental genomics data. It will be structured as a series of lectures covering key concepts and analytical strategies. A diverse range of biological questions enabled by modern DNA sequencing technologies will be explored including sequence alignment, the identification of genetic variation, structural variation, and ChIP-seq and RNA-seq analysis. Students will learn and apply the fundamental data formats and analysis strategies that underlie computational genomics research. **The primary goal of the course is for students to be grounded in theory and leave the course empowered to conduct independent genomic analyses.**
