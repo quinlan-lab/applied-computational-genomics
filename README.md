@@ -5,7 +5,7 @@
 - Zoom Link for class (passcode provided to enrolled students): https://utah.zoom.us/j/99667928173
 - TA Hours (password the same as for class): 
     - Monday (2-3PM):  https://utah.zoom.us/j/99972816514
-    - Wednesday (12-1PM):  https://utah.zoom.us/j/95069753712
+    - Wednesday (12-1PM):  https://utah.zoom.us/j/96708483809
     - Friday (2-3PM): https://utah.zoom.us/j/96165510499
 - Homework Submission Links (TBD)
 
