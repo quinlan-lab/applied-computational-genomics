@@ -6,7 +6,7 @@
 - TA Hours (password the same as for class): 
     - Monday (2-3PM):  https://utah.zoom.us/j/99972816514
     - Wednesday (12-1PM):  https://utah.zoom.us/j/95069753712
-    - Friday (2-3PM): https://utah.zoom.us/j/96596071925
+    - Friday (2-3PM): https://utah.zoom.us/j/96165510499
 - Homework Submission Links (TBD)
 
 ### Overview
