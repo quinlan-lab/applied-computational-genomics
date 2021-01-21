@@ -1,11 +1,11 @@
 ### Applied Computational Genomics Course at UU: Spring 2021
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
-- Teaching assistants: Gage Black (), Sarah Lucas (), John Chamberlin ()
+- Teaching assistants: Gage Black (), Sarah Lucas (sarah.lucas@utah.edu), John Chamberlin ()
 - Meets virtually Tu and Th from 9:10-10:30 January 19, 2021 - April 27, 2021. **Note exceptions in syllabus below**
 - Zoom Link for class (passcode provided to enrolled students): https://utah.zoom.us/j/99667928173
 - TA Hours (password the same as for class): 
     - Monday (2-3PM):  https://utah.zoom.us/j/99972816514
-    - Wednesday (12-1PM):  https://utah.zoom.us/j/95069753712
+    - Wednesday (12-1PM):  https://utah.zoom.us/j/96708483809
     - Friday (2-3PM): https://utah.zoom.us/j/96596071925
 - Homework Submission Links (TBD)
 
