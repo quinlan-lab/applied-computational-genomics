@@ -18,8 +18,10 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 ### Course lecture slides
 - Jan 19, 2021: Course overview and Intro to UNIX
     - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=idl6oq-MxbM)
 - Jan 21, 2021: Intro to UNIX, Part 2
     - [slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
 - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
     - due Jan 28 at 11:59PM
     - post answers as UNID.hw1.txt to URL_TODO
