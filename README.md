@@ -4,7 +4,7 @@
 - Meets virtually Tu and Th from 9:10-10:30 January 19, 2021 - April 27, 2021. **Note exceptions in syllabus below**
 - Zoom Link for class (passcode provided to enrolled students): https://utah.zoom.us/j/99667928173
 - TA Hours (password the same as for class): 
-    - Monday (2-3PM):  https://utah.zoom.us/j/99972816514
+    - Monday (2-3PM):  https://utah.zoom.us/j/4972255591
     - Wednesday (12-1PM):  https://utah.zoom.us/j/96708483809
     - Friday (2-3PM): https://utah.zoom.us/j/96165510499
 - Homework Submission Links (TBD)
