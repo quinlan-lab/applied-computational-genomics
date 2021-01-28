@@ -7,7 +7,8 @@
     - Monday (2-3PM):  https://utah.zoom.us/j/4972255591
     - Wednesday (12-1PM):  https://utah.zoom.us/j/96708483809
     - Friday (2-3PM): https://utah.zoom.us/j/96165510499
-- Homework Submission Links (TBD)
+- [Homework Submission Link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+
 
 ### Overview
 This course will provide a comprehensive introduction to fundamental concepts and experimental approaches in the analysis and interpretation of experimental genomics data. It will be structured as a series of lectures covering key concepts and analytical strategies. A diverse range of biological questions enabled by modern DNA sequencing technologies will be explored including sequence alignment, the identification of genetic variation, structural variation, and ChIP-seq and RNA-seq analysis. Students will learn and apply the fundamental data formats and analysis strategies that underlie computational genomics research. **The primary goal of the course is for students to be grounded in theory and leave the course empowered to conduct independent genomic analyses.**
@@ -31,6 +32,10 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 28, 2021: Pattern searching in the human genome
     - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
     - [youtube](https://youtu.be/ngpwuFh7H5M?t=22https://youtu.be/ngpwuFh7H5M?t=22)
+- Homework #2: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md
+    - due Feb 4 at 11:59PM
+    - post answers as `UNID.hw2.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+    - *Also, install RStudio on your laptop before class on Feb 2*
 - Feb 2, 2021: Intro to Data Analysis in RStudio
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing) 
 - Feb 4, 2021: Data frames and Importing Data **No lecture owing to a conflict, students must go through these slides on their own**
