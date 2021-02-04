@@ -31,13 +31,14 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
 - Jan 28, 2021: Pattern searching in the human genome
     - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
-    - [youtube](https://youtu.be/ngpwuFh7H5M?t=22https://youtu.be/ngpwuFh7H5M?t=22)
+    - [youtube](https://youtu.be/ngpwuFh7H5M?t=22)
 - Homework #2: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md
     - due Feb 4 at 11:59PM
     - post answers as `UNID.hw2.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
     - *Also, install RStudio on your laptop before class on Feb 2*
 - Feb 2, 2021: Intro to Data Analysis in RStudio
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing) 
+    - [youtube](https://www.youtube.com/watch?v=Gs4XIPknksc)
 - Feb 4, 2021: Data frames and Importing Data **No lecture owing to a conflict, students must go through these slides on their own**
     - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
 - Feb 9, 2021: Intro to RNA-seq analysis
