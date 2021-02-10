@@ -47,7 +47,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 11, 2021: Poisson Processes in Biology
     - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
     - [youtube to do]()
-- Homework #3: TODO
+- Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md
     - due Feb 18 at 11:59PM
     - post answers as `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Feb 16, 2021: Intro to RNA-seq analysis
