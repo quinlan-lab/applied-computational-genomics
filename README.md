@@ -43,7 +43,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
 - Feb 9, 2021: More with data frames, precision v. accuracy, very basic RNA-seq analysis
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
-    - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
+    - [video](https://youtu.be/yc3HH8Dxhf8)
 - Feb 11, 2021: Poisson Processes in Biology
     - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
     - [youtube to do]()
