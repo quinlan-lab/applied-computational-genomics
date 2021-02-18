@@ -52,19 +52,21 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - post answers as `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Feb 16, 2021: Intro to RNA-seq analysis
     - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
-- Feb 18, 2021: Genetic Variation
-    - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
+- Feb 18, 2021: DNA sequence mapping and alignment
+    - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=ipejNu6poPE)
  
  
  LEFT OFF HERE
-    
+
+- Feb 18, 2021: Genetic Variation
+    - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
+    - 
 - Feb 18, 2021: DNA sequencing technologies and FASTQ format
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
-- Feb 23, 2021: DNA sequence mapping and alignment
-    - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=ipejNu6poPE)
+
 
     
     
