@@ -46,15 +46,16 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [video](https://youtu.be/yc3HH8Dxhf8)
 - Feb 11, 2021: Poisson Processes in Biology
     - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
-    - [youtube to do]()
+    - [youtube](https://youtu.be/zS13juQqsFU)
 - Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md
     - due Feb 18 at 11:59PM
     - post answers as `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-- Feb 16, 2021: Intro to RNA-seq analysis
+- Feb 16, 2021: Sources of uncertainty in RNA-seq analysis
     - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+    - [youtube](https://youtu.be/xItNEtQvYaU)
 - Feb 18, 2021: DNA sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=ipejNu6poPE)
+    - [youtube](https://youtu.be/QuuKYEp5EUA)
  
  
  LEFT OFF HERE
