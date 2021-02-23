@@ -56,17 +56,19 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 18, 2021: DNA sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
     - [youtube](https://youtu.be/QuuKYEp5EUA)
- 
- 
+ - Feb 23, 2021: DNA sequencing technologies and FASTQ format
+    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
+ - Homework #4: 
+    - due Mar 4 at 11:59PM
+    - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
  LEFT OFF HERE
 
 - Feb 18, 2021: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
     - 
-- Feb 18, 2021: DNA sequencing technologies and FASTQ format
-    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
+
 
 
     
