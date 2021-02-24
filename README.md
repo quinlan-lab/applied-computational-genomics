@@ -59,7 +59,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
  - Feb 23, 2021: DNA sequencing technologies and FASTQ format
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
- - Homework #4: 
+ - Homework #4: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-v2-md
     - due Mar 4 at 11:59PM
     - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
  LEFT OFF HERE
