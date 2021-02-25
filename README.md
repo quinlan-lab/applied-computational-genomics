@@ -64,7 +64,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Feb 25, 2021: An introduction to awk and bioawk
     - [slides](https://docs.google.com/presentation/d/1ZfLRLxpc12YqeCt8DWojNwKUuW1WZSp_uTXPK2g2e3o/edit#slide=id.p)
-    - [youtube]() 
+    - [youtube](https://youtu.be/iiFhBvA_wfA) 
 
 
 [left off here]
