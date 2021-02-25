@@ -62,7 +62,14 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
  - Homework #4: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-v2-md
     - due Mar 4 at 11:59PM
     - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
- LEFT OFF HERE
+- Feb 25, 2021: An introduction to awk and bioawk
+    - [slides](https://docs.google.com/presentation/d/1ZfLRLxpc12YqeCt8DWojNwKUuW1WZSp_uTXPK2g2e3o/edit#slide=id.p)
+    - [youtube]() 
+
+
+[left off here]
+
+
 
 - Feb 18, 2021: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
