@@ -65,25 +65,18 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 25, 2021: An introduction to awk and bioawk
     - [slides](https://docs.google.com/presentation/d/1ZfLRLxpc12YqeCt8DWojNwKUuW1WZSp_uTXPK2g2e3o/edit#slide=id.p)
     - [youtube](https://youtu.be/iiFhBvA_wfA) 
-
+- Mar 2, 2021: SAM/BAM format, samtools, and IGV
+    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
+- Mar 4, 2021: Genetic Variation
+    - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
+ - Homework #5: 
+    - due Mar11 at 11:59PM
+    - post answers as `UNID.hw5.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 
 [left off here]
 
-
-
-- Feb 18, 2021: Genetic Variation
-    - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
-    - 
-
-
-
-    
-    
-    
-30, 2020: SAM/BAM format, samtools, and IGV
-    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
 - Feb 4, 2020: SNP and INDEL discovery (part 1)
     - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
