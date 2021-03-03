@@ -71,9 +71,6 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 4, 2021: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
- - Homework #5: 
-    - due Mar11 at 11:59PM
-    - post answers as `UNID.hw5.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 
 [left off here]
 
