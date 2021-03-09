@@ -71,18 +71,23 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 4, 2021: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
-
-[left off here]
-
-- Feb 4, 2020: SNP and INDEL discovery (part 1)
+- Homework #5: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md
+    - due Mar 18 at 11:59PM
+    - post answers as `UNID.hw5.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+- Mar 9, 2020: SNP and INDEL discovery (part 1)
     - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
-- Feb 6, 2020: SNP and INDEL discovery (part 2)
+- Mar 11, 2020: SNP and INDEL discovery (part 2)
     - [slides](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FY9t3sQMlJw)
+
+[left off here[]
+
 - Feb 11, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
     - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
+
+
 - Feb 18, 2020: VCF annotation and interpetation
     - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
