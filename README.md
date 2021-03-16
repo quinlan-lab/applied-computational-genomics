@@ -80,13 +80,12 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 11, 2020: SNP and INDEL discovery (part 2)
     - [slides](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FY9t3sQMlJw)
-
-[left off here[]
-
-- Feb 11, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
+- Mar 16, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
     - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
 
+
+[left off here[]
 
 - Feb 18, 2020: VCF annotation and interpetation
     - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
@@ -105,15 +104,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 5, 2020: Real world analyses with bedtools.
     - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
-- Mar 19, 2020: Intro to RNA-seq analysis
-    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
-    - [youtube to do]()
-- Mar 24, 2020: Poisson Processes in Biology
-    - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
-    - [youtube to do]()
-- Mar 26, 2020: RNA-seq analysis (cont.)
-    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
-    - [youtube to do]()
+
 - Mar 31, 2020: The Normal Distribution and Q-Q plots
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
 - Apr 02, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
