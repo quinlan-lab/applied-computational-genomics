@@ -83,40 +83,42 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 16, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
     - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
-
+- Mar 18, 2020: VCF annotation and interpetation
+    - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
+- Mar 23, 2020: Genome Annotation and Resources
+    - [slides](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
+- Mar 25, 2020: Genome Annotation Formats.
+    - [slides](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=tq3GeDXbZXA)
+- Mar 29, 2020: Genome arithmetic with bedtools
+    - [slides](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=1R1KocKEzYY)
+- Apr 1, 2020: Real world analyses with bedtools.
+    - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
+- Apr 6, 2020: The Normal Distribution and Q-Q plots
+    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
+- Apr 8, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
+    - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
+- April 13, 2020: The Central Limit Theorem and Confidence Intervals
+    - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
+- April 15, 2020:  The t-statistic, t-distribution, t-tests, and p-values
+    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
+    - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
+- April 20, 2020:  Introduction to Linear Regression
+    - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
+    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
 
 [left off here[]
 
-- Feb 18, 2020: VCF annotation and interpetation
-    - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
 - Feb 20, 2020: Structural and copy number variation
     - [slides](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=Skfzw5LwJq0)
-- Feb 25, 2020: Genome Annotation and Resources
-    - [slides](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
-- Feb 27, 2020: Genome Annotation Formats.
-    - [slides](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=tq3GeDXbZXA)
-- Mar 3, 2020: Genome arithmetic with bedtools
-    - [slides](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=1R1KocKEzYY)
-- Mar 5, 2020: Real world analyses with bedtools.
-    - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
 
-- Mar 31, 2020: The Normal Distribution and Q-Q plots
-    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
-- Apr 02, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
-    - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
-- April 7, 2020: The Central Limit Theorem and Confidence Intervals
-    - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
-- April 7, 2020:  The t-statistic, t-distribution, t-tests, and p-values
-    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
-    - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
-- April 14, 2020:  Introduction to Linear Regression
-    - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
-    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
+
+
+
 - April 16, 2020: Patterns of Mutation in the Human Genome
     - [slides](https://drive.google.com/file/d/1qWJysIa1XAFZ_qH-kOVRDbXKGt9e9lFZ/view?usp=sharing)
 
