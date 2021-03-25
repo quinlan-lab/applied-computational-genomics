@@ -88,6 +88,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
 - Mar 23, 2020: Genome Annotation and Resources
     - [slides](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=ElnZGlzb4qo)
 - Mar 25, 2020: Genome Annotation Formats.
     - [slides](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=tq3GeDXbZXA)
