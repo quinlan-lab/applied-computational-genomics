@@ -92,6 +92,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 25, 2020: Genome Annotation Formats.
     - [slides](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=tq3GeDXbZXA)
+- Homework #6: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw6-md
+    - due April 6 at 11:59PM
+    - post answers as `UNID.hw6.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Mar 29, 2020: Genome arithmetic with bedtools
     - [slides](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=1R1KocKEzYY)
