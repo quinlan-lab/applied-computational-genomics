@@ -103,7 +103,14 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Apr 1, 2020: Real world analyses with bedtools.
     - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
-- Apr 6, 2020: The Normal Distribution and Q-Q plots
+- Apr 6, 2020: Monte Carlo simulations and more on UNIX
+    - [slides 1](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
+    - [slides 2](https://docs.google.com/presentation/d/186g0U-3M-Cy-wznAoFT6WwpgQCvYwmnegrr8UJ7vIJo/edit#slide=id.p)
+
+
+
+
+- Apr 8, 2020: The Normal Distribution and Q-Q plots
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
 - Apr 8, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
     - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
