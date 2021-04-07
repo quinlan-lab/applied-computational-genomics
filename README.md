@@ -106,11 +106,14 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Apr 6, 2020: Monte Carlo simulations and more on UNIX
     - [slides 1](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [slides 2](https://docs.google.com/presentation/d/186g0U-3M-Cy-wznAoFT6WwpgQCvYwmnegrr8UJ7vIJo/edit#slide=id.p)
+    - [youtube - Monte Carlo](https://youtu.be/QQ94LZ-gWqM)
+    - [youtube - bash_profile](https://youtu.be/zearEb3guLI)
+- Homework #7: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw7-md
+    - due April 20 at 11:59PM
+    - post answers as `UNID.hw7.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 
 
-
-
-- Apr 8, 2020: The Normal Distribution and Q-Q plots
+-  Apr 8, 2020: The Normal Distribution and Q-Q plots
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
 - Apr 8, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
     - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
