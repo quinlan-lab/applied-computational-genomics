@@ -116,8 +116,8 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Apr 13, 2020: Q-Q plots
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
 - Apr 15, 2020: Descriptive plots. The Central Limit Theorem
-    - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
-
+    - [slides 1](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
+    - [slides 2](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
 [left off here[]
 
 - April XX, 2020: The Central Limit Theorem and Confidence Intervals
