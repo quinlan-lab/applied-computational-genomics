@@ -111,12 +111,13 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Homework #7: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw7-md
     - due April 20 at 11:59PM
     - post answers as `UNID.hw7.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-
-
--  Apr 8, 2020: The Normal Distribution and Q-Q plots
+- Apr 8, 2020: The Normal Distribution
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
-- Apr 8, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
+- Apr 13, 2020: Q-Q plots
+    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
+- Apr 15, 2020: Descriptive plots. The Central Limit Theorem
     - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
+
 - April 13, 2020: The Central Limit Theorem and Confidence Intervals
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
 - April 15, 2020:  The t-statistic, t-distribution, t-tests, and p-values
