@@ -118,16 +118,20 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Apr 15, 2020: Descriptive plots. The Central Limit Theorem
     - [slides 1](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
     - [slides 2](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
-[left off here[]
+- April 20, 2020:  The t-statistic, t-distribution, t-tests, and p-values
+    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
+    - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
+- April 22, 2020:  Introduction to Linear Regression
+    - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
+    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
+- April 27, 2020:  Introduction to dplyr / tidyverse
+    - [slides]()
+    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
 
 - April XX, 2020: The Central Limit Theorem and Confidence Intervals
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
-- April XX, 2020:  The t-statistic, t-distribution, t-tests, and p-values
-    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
-    - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
-- April XX, 2020:  Introduction to Linear Regression
-    - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
-    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
+
+
 
 
 
