@@ -122,7 +122,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
     - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
 - April 22, 2020:  Introduction to Linear Regression
-    - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
+    - [slides](https://docs.google.com/presentation/d/1ugkYc24AmKVEO0-x-M3qZ4EsSIedbSwyqD6cLN0YIiI/edit#slide=id.gd42443b26c_0_0)
     - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
 - April 27, 2020:  Introduction to dplyr / tidyverse
     - [slides]()
