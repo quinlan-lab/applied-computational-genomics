@@ -124,25 +124,19 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - April 22, 2020:  Introduction to Linear Regression
     - [slides](https://docs.google.com/presentation/d/1ugkYc24AmKVEO0-x-M3qZ4EsSIedbSwyqD6cLN0YIiI/edit#slide=id.gd42443b26c_0_0)
     - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
-- April 27, 2020:  Introduction to dplyr / tidyverse
-    - [slides]()
-    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
+- April 27, 2020:  Introduction to tidyverse
+    - [slides](https://docs.google.com/presentation/d/1tdQ5B7LhiAE5-G6sJ6nDeCna463dWjKlAenc5DCde0g/edit#slide=id.p1)
+    - [youtube]()
 
-- April XX, 2020: The Central Limit Theorem and Confidence Intervals
+EXTRA
+
+
+- The Central Limit Theorem and Confidence Intervals
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
-
-
-
-
-
-- Feb 20, 2020: Structural and copy number variation
+- Structural and copy number variation
     - [slides](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=Skfzw5LwJq0)
-
-
-
-
-- April 16, 2020: Patterns of Mutation in the Human Genome
+- Patterns of Mutation in the Human Genome
     - [slides](https://drive.google.com/file/d/1qWJysIa1XAFZ_qH-kOVRDbXKGt9e9lFZ/view?usp=sharing)
 
 
