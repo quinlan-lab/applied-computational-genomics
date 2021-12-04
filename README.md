@@ -1,13 +1,13 @@
 ### Applied Computational Genomics Course at UU: Spring 2022
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
 - HSEB 5100C
-- Teaching assistants: 
-- Meets Tu and Th from 10:30-11:50 January 19, 2021 - April 27, 2021. **Note exceptions in syllabus below**
-- Zoom Link for class (passcode provided to enrolled students): https://utah.zoom.us/j/99667928173
-- TA Hours (password the same as for class): 
-    - Monday (2-3PM):  https://utah.zoom.us/j/4972255591
-    - Wednesday (12-1PM):  https://utah.zoom.us/j/96708483809
-    - Friday (2-3PM): https://utah.zoom.us/j/96165510499
+- Teaching assistants:
+    - Paige Eberle
+    - Jason Kunisaki
+    - Casey Sederman
+    - Isabelle Cooperstein  
+- Meets Tu and Th from 10:30-11:50 January 19, 2021 - April 27, 2021.
+- TA Hours (TBD): 
 - [Homework Submission Link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 
 
