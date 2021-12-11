@@ -1,6 +1,6 @@
 ### Applied Computational Genomics Course at UU: Spring 2022
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
-- HSEB 5100C
+- HSEB 3515B
 - Teaching assistants:
     - Paige Eberle
     - Jason Kunisaki
