@@ -2,7 +2,7 @@
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
 - HSEB 3515B
 - Teaching assistants:
-    - Paige Eberle
+    - Holly Thorpe
     - Jason Kunisaki
     - Casey Sederman
     - Isabelle Cooperstein  
