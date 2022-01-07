@@ -1,6 +1,6 @@
 ### Applied Computational Genomics Course at UU: Spring 2022
 - Faculty: Aaron Quinlan (aquinlan at genetics.utah.edu)
-- HSEB 3515B
+- HSEB 3515B, but Zoom (https://utah.zoom.us/j/95686980443) for the first two weeks
 - Teaching assistants:
     - Holly Thorpe
     - Jason Kunisaki
@@ -8,11 +8,15 @@
     - Isabelle Cooperstein  
 - Meets Tu and Th from 10:30-11:50 January 19, 2021 - April 27, 2021.
 - TA Hours (TBD): 
-- [Homework Submission Link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+- [Homework Submission Link](TBD):
 
 
 ### Overview
 This course will provide a comprehensive introduction to fundamental concepts and experimental approaches in the analysis and interpretation of experimental genomics data. It will be structured as a series of lectures covering key concepts and analytical strategies. A diverse range of biological questions enabled by modern DNA sequencing technologies will be explored including sequence alignment, the identification of genetic variation, structural variation, and ChIP-seq and RNA-seq analysis. Students will learn and apply the fundamental data formats and analysis strategies that underlie computational genomics research. **The primary goal of the course is for students to be grounded in theory and leave the course empowered to conduct independent genomic analyses.**
+
+### Important notes
+1. Class participation is expected. Ask a question if you have one!
+2. When on Zoom, cameras must be on.
 
 ### Grading policy
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
