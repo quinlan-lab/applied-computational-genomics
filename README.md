@@ -22,15 +22,15 @@ This course will provide a comprehensive introduction to fundamental concepts an
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
 
 ### Course lecture slides
-- Jan 19, 2021: Course overview and Intro to UNIX
+- Jan 11, 2021: Course overview and Intro to UNIX
     - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=idl6oq-MxbM)
-- Jan 21, 2021: Intro to UNIX, Part 2
+- Jan 13, 2021: Intro to UNIX, Part 2
     - [slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
-- Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
+<!-- - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
     - due Jan 28 at 11:59PM
-    - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+    - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
 - Jan 26, 2021: The human genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
