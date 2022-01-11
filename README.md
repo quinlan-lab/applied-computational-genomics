@@ -6,7 +6,7 @@
     - Jason Kunisaki
     - Casey Sederman
     - Isabelle Cooperstein  
-- Meets Tu and Th from 10:30-11:50 January 19, 2021 - April 27, 2021.
+- Meets Tu and Th from 10:30-11:50 January 11, 2021.
 - TA Hours (TBD): 
 - [Homework Submission Link](TBD):
 
