@@ -46,7 +46,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 2, 2021: Intro to Data Analysis in RStudio
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing) 
     - [youtube](https://www.youtube.com/watch?v=Gs4XIPknksc)
-- Feb 4, 2021: Data frames and Importing Data **No lecture owing to a conflict, students must go through these slides on their own**
+- Feb 4, 2021: Data frames and Importing Data 
     - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
 - Feb 9, 2021: More with data frames, precision v. accuracy, very basic RNA-seq analysis
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
