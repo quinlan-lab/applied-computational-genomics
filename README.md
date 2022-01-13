@@ -22,6 +22,7 @@ This course will provide a comprehensive introduction to fundamental concepts an
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
 
 ### Course lecture slides
+- [reading assignment](articles/01-Brief-History-of-Bioinformatics.pdf)
 - Jan 11, 2021: Course overview and Intro to UNIX
     - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=idl6oq-MxbM)
@@ -31,7 +32,8 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 <!-- - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
     - due Jan 28 at 11:59PM
     - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
-- Jan 26, 2021: The human genome
+- [reading assignment](articles/02-Human-Genome-Review.pdf)
+- Jan 18, 2021: The human genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
 - Jan 28, 2021: Pattern searching in the human genome
