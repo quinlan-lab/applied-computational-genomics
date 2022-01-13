@@ -8,6 +8,9 @@
     - Isabelle Cooperstein  
 - Meets Tu and Th from 10:30-11:50 January 11, 2021.
 - TA Hours (TBD): 
+    - Wednesday 12PM - 1PM (https://utah.zoom.us/j/95737998575, pw: 314025)
+    - Monday 2PM - 3PM (TBD)
+
 - [Homework Submission Link](TBD):
 
 
