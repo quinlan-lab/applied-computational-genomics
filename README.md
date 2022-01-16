@@ -9,7 +9,7 @@
 - Meets Tu and Th from 10:30-11:50 January 11, 2021.
 - TA Hours (TBD): 
     - Wednesday 12PM - 1PM (https://utah.zoom.us/j/95737998575, pw: 314025)
-    - Monday 2PM - 3PM (TBD)
+    - Monday 2PM - 3PM (https://utah.zoom.us/j/95805178811, pw: 278239)
 
 - [Homework Submission Link](TBD):
 
@@ -26,43 +26,49 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 
 ### Course lecture slides
 - [reading assignment: 01-Brief-History-of-Bioinformatics.pdf](articles/01-Brief-History-of-Bioinformatics.pdf)
-- Jan 11, 2021: Course overview and Intro to UNIX
+- Jan 11, 2022: Course overview and Intro to UNIX
     - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=idl6oq-MxbM)
-- Jan 13, 2021: Intro to UNIX, Part 2
+- Jan 13, 2022: Intro to UNIX, Part 2
     - [slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
 <!-- - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
     - due Jan 28 at 11:59PM
     - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
 - [reading assignment: 02-Human-Genome-Review.pdf](articles/02-Human-Genome-Review.pdf)
-- Jan 18, 2021: The human genome
+- Jan 18, 2022: The human genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
-- Jan 28, 2021: Pattern searching in the human genome
+- Jan 20, 2022: Pattern searching in the human genome
     - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
     - [youtube](https://youtu.be/ngpwuFh7H5M?t=22)
-- Homework #2: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md
+<!-- - Homework #2: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md
     - due Feb 4 at 11:59PM
     - post answers as `UNID.hw2.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-    - *Also, install RStudio on your laptop before class on Feb 2*
-- Feb 2, 2021: Intro to Data Analysis in RStudio
+    - *Also, install RStudio on your laptop before class on Feb 2* -->
+- Jan 25, 2022: Intro to Data Analysis in RStudio
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing) 
     - [youtube](https://www.youtube.com/watch?v=Gs4XIPknksc)
-- Feb 4, 2021: Data frames and Importing Data 
+- Jan 27, 2022: Data frames and Importing Data 
     - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
-- Feb 9, 2021: More with data frames, precision v. accuracy, very basic RNA-seq analysis
+- Feb 1, 2022: More with data frames, precision v. accuracy, very basic RNA-seq analysis
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://youtu.be/yc3HH8Dxhf8)
+- Feb 3, 2022: Intro to the tidyverse (guest lecturer: Charlie Murtaugh)
+- Feb 8, 2022: Sources of uncertainty in RNA-seq analysis
+    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+    - [youtube](https://youtu.be/xItNEtQvYaU)
+
+
+*Rest of syllabus subject to change*
+
+
 - Feb 11, 2021: Poisson Processes in Biology
     - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
     - [youtube](https://youtu.be/zS13juQqsFU)
 - Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md
     - due Feb 18 at 11:59PM
     - post answers as `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-- Feb 16, 2021: Sources of uncertainty in RNA-seq analysis
-    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
-    - [youtube](https://youtu.be/xItNEtQvYaU)
 - Feb 18, 2021: DNA sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
     - [youtube](https://youtu.be/QuuKYEp5EUA)
