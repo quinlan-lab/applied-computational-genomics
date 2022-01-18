@@ -32,13 +32,13 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 13, 2022: Intro to UNIX, Part 2
     - [slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
-<!-- - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
-    - due Jan 28 at 11:59PM
-    - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
 - [reading assignment: 02-Human-Genome-Review.pdf](articles/02-Human-Genome-Review.pdf)
 - Jan 18, 2022: The human genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
+    - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
+        - due Jan 25 at 11:59PM
+        - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Jan 20, 2022: Pattern searching in the human genome
     - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
     - [youtube](https://youtu.be/ngpwuFh7H5M?t=22)
