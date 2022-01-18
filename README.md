@@ -10,8 +10,7 @@
 - TA Hours (TBD): 
     - Wednesday 12PM - 1PM (https://utah.zoom.us/j/95737998575, pw: 314025)
     - Monday 2PM - 3PM (https://utah.zoom.us/j/95805178811, pw: 278239)
-
-- [Homework Submission Link](TBD):
+- [Homework Submission Link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 
 
 ### Overview
