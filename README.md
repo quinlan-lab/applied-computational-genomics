@@ -45,7 +45,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - due Feb 4 at 11:59PM
     - post answers as `UNID.hw2.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
     - *Also, install RStudio on your laptop before class on Feb 2* -->
-- Jan 25, 2022: Intro to Data Analysis in RStudio
+- Jan 25, 2022: Pattern searching in the human genome and Intro to Data Analysis in RStudio
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing) 
     - [youtube](https://www.youtube.com/watch?v=Gs4XIPknksc)
 - Jan 27, 2022: Data frames and Importing Data 
