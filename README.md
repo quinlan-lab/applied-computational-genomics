@@ -50,6 +50,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [youtube](https://www.youtube.com/watch?v=Gs4XIPknksc)
 - Jan 27, 2022: Data frames and Importing Data 
     - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
+    - Homework #2: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md
+        - due Feb 3 at 11:59PM
+        - post answers as `UNID.hw2.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Feb 1, 2022: More with data frames, precision v. accuracy, very basic RNA-seq analysis
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://youtu.be/yc3HH8Dxhf8)
