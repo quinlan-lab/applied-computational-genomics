@@ -62,7 +62,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
     - Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md
-        - due Feb 15 at 11:59PM
+        - due Feb 17 at 11:59PM
         - post answers as `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Feb 10, 2021: DNA sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
