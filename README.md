@@ -57,26 +57,30 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://youtu.be/yc3HH8Dxhf8)
 - Feb 3, 2022: Intro to the tidyverse (guest lecturer: Charlie Murtaugh)
-- Feb 8, 2022: Sources of uncertainty in RNA-seq analysis
-    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
-    - [youtube](https://youtu.be/xItNEtQvYaU)
+
+- Feb 8, 2021: DNA sequencing technologies and FASTQ format
+    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
+    - Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md
+        - due Feb 15 at 11:59PM
+        - post answers as `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+- Feb 10, 2021: DNA sequence mapping and alignment
+    - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
+    - [youtube](https://youtu.be/QuuKYEp5EUA)
 
 
 *Rest of syllabus subject to change*
 
+- Feb 8, 2022: Sources of uncertainty in RNA-seq analysis
+    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+    - [youtube](https://youtu.be/xItNEtQvYaU)
 
 - Feb 11, 2021: Poisson Processes in Biology
     - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
     - [youtube](https://youtu.be/zS13juQqsFU)
-- Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md
-    - due Feb 18 at 11:59PM
-    - post answers as `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-- Feb 18, 2021: DNA sequence mapping and alignment
-    - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
-    - [youtube](https://youtu.be/QuuKYEp5EUA)
- - Feb 23, 2021: DNA sequencing technologies and FASTQ format
-    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
+
+
+
  - Homework #4: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-v2-md
     - due Mar 4 at 11:59PM
     - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
