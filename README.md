@@ -57,7 +57,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://youtu.be/yc3HH8Dxhf8)
 - Feb 3, 2022: Intro to the tidyverse (guest lecturer: Charlie Murtaugh)
-
+    - [slides](https://docs.google.com/presentation/d/1KpudXaBqi4FtsVTVJDqD8ChqX3M44REs/edit?usp=sharing&ouid=107526144078068918726&rtpof=true&sd=true)
 - Feb 8, 2021: DNA sequencing technologies and FASTQ format
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
