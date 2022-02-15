@@ -58,16 +58,20 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [video](https://youtu.be/yc3HH8Dxhf8)
 - Feb 3, 2022: Intro to the tidyverse (guest lecturer: Charlie Murtaugh)
     - [slides](https://docs.google.com/presentation/d/1KpudXaBqi4FtsVTVJDqD8ChqX3M44REs/edit?usp=sharing&ouid=107526144078068918726&rtpof=true&sd=true)
-- Feb 8, 2021: DNA sequencing technologies and FASTQ format
+- Feb 8, 2022: DNA sequencing technologies
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
     - Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-md
         - due Feb 17 at 11:59PM
         - post answers as `UNID.hw3.html` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-- Feb 10, 2021: DNA sequence mapping and alignment
+- Feb 10, 2022: FASTQ format and tools
+    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)   
+- Feb 15, 2022: Sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
     - [youtube](https://youtu.be/QuuKYEp5EUA)
-
+- Feb 17, 2022: SAM/BAM format, samtools, and IGV
+    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
 
 *Rest of syllabus subject to change*
 
@@ -87,9 +91,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 25, 2021: An introduction to awk and bioawk
     - [slides](https://docs.google.com/presentation/d/1ZfLRLxpc12YqeCt8DWojNwKUuW1WZSp_uTXPK2g2e3o/edit#slide=id.p)
     - [youtube](https://youtu.be/iiFhBvA_wfA) 
-- Mar 2, 2021: SAM/BAM format, samtools, and IGV
-    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
+
 - Mar 4, 2021: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
