@@ -69,9 +69,13 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 15, 2022: Sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
     - [youtube](https://youtu.be/QuuKYEp5EUA)
-- Feb 17, 2022: SAM/BAM format, samtools, and IGV
+- Feb 17, 2022: Sequence alignment and SAM/BAM format samtools, and IGV
     - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
+- Feb 22, 2022: Samtools and IGV
+    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
+
 
 *Rest of syllabus subject to change*
 
