@@ -75,9 +75,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 22, 2022: Samtools and IGV
     - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
-    - Homework #4: TBD
+<!--     - Homework #4: TBD
         - due Feb 29 at 11:59PM
-        - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+        - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
 
 *Rest of syllabus subject to change*
 
