@@ -90,10 +90,10 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [youtube](https://youtu.be/zS13juQqsFU)
 
 
-
+<!-- 
  - Homework #4: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-v2-md
     - due Mar 4 at 11:59PM
-    - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+    - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
 - Feb 25, 2021: An introduction to awk and bioawk
     - [slides](https://docs.google.com/presentation/d/1ZfLRLxpc12YqeCt8DWojNwKUuW1WZSp_uTXPK2g2e3o/edit#slide=id.p)
     - [youtube](https://youtu.be/iiFhBvA_wfA) 
