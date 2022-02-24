@@ -78,7 +78,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Feb 24, 2022: Poisson Processes in Biology
     - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
     - [youtube](https://youtu.be/zS13juQqsFU)
-- March 1, 2022: 
+- March 1, 2022: Uncertainty in RNA-seq data 
     - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
     - [youtube](https://youtu.be/xItNEtQvYaU)
 
