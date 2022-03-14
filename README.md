@@ -84,26 +84,17 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - March 3, 2022: An introduction to awk and bioawk
     - [slides](https://docs.google.com/presentation/d/1ZfLRLxpc12YqeCt8DWojNwKUuW1WZSp_uTXPK2g2e3o/edit#slide=id.p)
     - [youtube](https://youtu.be/iiFhBvA_wfA) 
- 
-<!--     - Homework #4: TBD
-        - due Feb 29 at 11:59PM
-        - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
+- Homework #4: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-v3-md
+    - due Mar 24 at 11:59PM
+    - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 
-*Rest of syllabus subject to change*
-
-<!-- 
- - Homework #4: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-v2-md
-    - due Mar 4 at 11:59PM
-    - post answers as `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
-
-
-- Mar 4, 2021: Genetic Variation
+- Mar 15, 2022: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
-- Homework #5: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md
+<!-- - Homework #5: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md
     - due Mar 18 at 11:59PM
-    - post answers as `UNID.hw5.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-- Mar 9, 2020: SNP and INDEL discovery (part 1)
+    - post answers as `UNID.hw5.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
+- Mar 17, 2022: SNP and INDEL discovery (part 1)
     - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
 - Mar 11, 2020: SNP and INDEL discovery (part 2)
