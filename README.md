@@ -97,29 +97,33 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 17, 2022: SNP and INDEL discovery (part 1)
     - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
-- Mar 11, 2020: SNP and INDEL discovery (part 2)
-    - [slides](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
-    - [youtube](https://www.youtube.com/watch?v=FY9t3sQMlJw)
-- Mar 16, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
+- Mar 22, 2022: Rates and patterns of human germline variation
+    - [slides]()
+    - [youtube]()
+- Mar 24, 2022: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
     - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
-- Mar 18, 2020: VCF annotation and interpetation
+- Mar 29, 2022: VCF annotation and interpetation
     - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
-- Mar 23, 2020: Genome Annotation and Resources
+- Mar 31, 2022: Genome Annotation and Resources
     - [slides](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=ElnZGlzb4qo)
-- Mar 25, 2020: Genome Annotation Formats.
+- April 5, 2022: Genome Annotation Formats.
     - [slides - 1](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
     - [slides - 2](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=tq3GeDXbZXA)
-- Homework #6: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw6-md
+<!-- - Homework #6: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw6-md
     - due April 6 at 11:59PM
-    - post answers as `UNID.hw6.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-- Mar 30, 2020: Genome arithmetic with bedtools
+    - post answers as `UNID.hw6.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
+- April 7, 2022: Genome arithmetic with bedtools
     - [bedtools tutorial](http://quinlanlab.org/tutorials/bedtools/bedtools.html)
     - [bedtools docs](https://bedtools.readthedocs.io/en/latest/index.html#)
     - [youtube](https://www.youtube.com/watch?v=1R1KocKEzYY)
+
+
+
+TBD
 - Apr 1, 2020: Real world analyses with bedtools.
     - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
