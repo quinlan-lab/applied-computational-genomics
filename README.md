@@ -91,9 +91,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 15, 2022: Genetic Variation
     - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
-<!-- - Homework #5: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md
-    - due Mar 18 at 11:59PM
-    - post answers as `UNID.hw5.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
+
 - Mar 17, 2022: SNP and INDEL discovery (part 1)
     - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
@@ -106,6 +104,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Mar 29, 2022: VCF annotation and interpetation
     - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
+- Homework #5: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-2022-md
+    - due Mar 18 at 11:59PM
+    - post answers as `UNID.hw5.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59) -->
 - Mar 31, 2022: Genome Annotation and Resources
     - [slides](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=ElnZGlzb4qo)
