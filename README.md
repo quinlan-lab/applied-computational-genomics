@@ -124,6 +124,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Apr 12, 2022: Real world analyses with bedtools.
     - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
+- Homework #6: solve all 10 puzzles at the end of the bedtools tutorial: http://quinlanlab.org/tutorials/bedtools/bedtools.html
+    - due April 26 (last day of classes at 11:59PM
+    - post answers as `UNID.hw6.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 - Apr 14, 2022: Monte Carlo simulations and more on UNIX
     - [slides 1](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [slides 2](https://docs.google.com/presentation/d/186g0U-3M-Cy-wznAoFT6WwpgQCvYwmnegrr8UJ7vIJo/edit#slide=id.p)
