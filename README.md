@@ -121,40 +121,37 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [bedtools tutorial](http://quinlanlab.org/tutorials/bedtools/bedtools.html)
     - [bedtools docs](https://bedtools.readthedocs.io/en/latest/index.html#)
     - [youtube](https://www.youtube.com/watch?v=1R1KocKEzYY)
-
-
-
-TBD
-- Apr 1, 2020: Real world analyses with bedtools.
+- Apr 12, 2022: Real world analyses with bedtools.
     - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
-- Apr 6, 2020: Monte Carlo simulations and more on UNIX
+- Apr 14, 2022: Monte Carlo simulations and more on UNIX
     - [slides 1](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
     - [slides 2](https://docs.google.com/presentation/d/186g0U-3M-Cy-wznAoFT6WwpgQCvYwmnegrr8UJ7vIJo/edit#slide=id.p)
     - [youtube - Monte Carlo](https://youtu.be/QQ94LZ-gWqM)
     - [youtube - bash_profile](https://youtu.be/zearEb3guLI)
-- Homework #7: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw7-md
-    - due April 20 at 11:59PM
-    - post answers as `UNID.hw7.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
-- Apr 8, 2020: The Normal Distribution
+- Apr 19, 2022: The Normal Distribution
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
-- Apr 13, 2020: Q-Q plots
-    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
-- Apr 15, 2020: Descriptive plots. The Central Limit Theorem
+- Apr 21, 2022: Descriptive plots. The Central Limit Theorem
     - [slides 1](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
     - [slides 2](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
-- April 20, 2020:  The t-statistic, t-distribution, t-tests, and p-values
+- April 26, 2022:  The t-statistic, t-distribution, t-tests, and p-values
     - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
     - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
+
+Not covered in 2022's course, but available for reference.
+
+<!-- - Homework #7: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw7-md
+    - due April 20 at 11:59PM
+    - post answers as `UNID.hw7.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+ -->
+- Apr 13, 2020: Q-Q plots
+    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
 - April 22, 2020:  Introduction to Linear Regression
     - [slides](https://docs.google.com/presentation/d/1ugkYc24AmKVEO0-x-M3qZ4EsSIedbSwyqD6cLN0YIiI/edit#slide=id.gd42443b26c_0_0)
     - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
 - April 27, 2020:  Introduction to tidyverse
     - [slides](https://docs.google.com/presentation/d/1tdQ5B7LhiAE5-G6sJ6nDeCna463dWjKlAenc5DCde0g/edit#slide=id.p1)
-    - [youtube]()
-
-EXTRA
-
+    - [youtube]
 
 - The Central Limit Theorem and Confidence Intervals
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
