@@ -4,7 +4,8 @@
     - Scott Pew
     - Reilly Falter 
 - Meets Tu and Th from 10:30-11:50 January 9, 2024.
-- TA Hours (TBD): 
+- TA Hours:
+    - Reilly Falter: Wed, 3-4 PM 
 - [Homework Submission Link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
 
 
