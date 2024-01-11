@@ -14,7 +14,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
 
 ### Important notes
 1. Class participation is expected. Ask a question if you have one!
-2. When on Zoom, cameras must be on.
 
 ### Grading policy
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
