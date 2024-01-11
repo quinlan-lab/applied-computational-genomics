@@ -21,12 +21,13 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 
 ### Course lecture slides
 - [reading assignment: 01-Brief-History-of-Bioinformatics.pdf](articles/01-Brief-History-of-Bioinformatics.pdf)
-- Jan 11, 2022: Course overview and Intro to UNIX
+- Jan 9, 2024: Course overview and Intro to UNIX
     - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=idl6oq-MxbM)
-- Jan 13, 2022: Intro to UNIX, Part 2
+- Jan 11, 2024: Intro to UNIX, Part 2
     - [slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
+<!--      
 - [reading assignment: 02-Human-Genome-Review.pdf](articles/02-Human-Genome-Review.pdf)
 - Jan 18, 2022: Intro to UNIX, Part 3 and Intro to the Human Genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
@@ -170,7 +171,7 @@ Not covered in 2022's course, but available for reference.
 (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw4-md)
 (https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw5-md)
 (http://quinlanlab.org/tutorials/bedtools/bedtools.html)
--->
+
 
 ### Homework
 - [Homework 1: Basic Unix analysis]
@@ -475,3 +476,4 @@ Not covered in 2022's course, but available for reference.
     - basic scripts and pipelines
 - **Class 28 (Th Apr 19; Quinlan): Group Presentations, part 1**
 - **Class 29 (Tu Apr 24; Quinlan): Group Presentations, part 2**
+-->
