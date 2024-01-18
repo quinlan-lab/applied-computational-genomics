@@ -31,7 +31,8 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
     - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
         - due Jan 25 at 11:59PM
-        - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/40d8f73cdcdc4c23b6fc3788e1983c6d)
+        - show all commands used
+        - post answers in a plain text file as (replace with your UNID) `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/40d8f73cdcdc4c23b6fc3788e1983c6d)
 - Jan 18, 2024: More Unix, The Human Genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
