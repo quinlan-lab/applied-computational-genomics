@@ -20,7 +20,6 @@ This course will provide a comprehensive introduction to fundamental concepts an
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
 
 ### Course lecture slides
-- [reading assignment: 01-Brief-History-of-Bioinformatics.pdf](articles/01-Brief-History-of-Bioinformatics.pdf)
 - Jan 9, 2024: Introductions, course overview,  connecting to server
     - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=idl6oq-MxbM)
@@ -32,7 +31,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
     - Homework #1: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw1-md
         - due Jan 25 at 11:59PM
-        - post answers as `UNID.hw1.txt` to this [link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+        - post answers as `UNID.hw1.txt` to this [link](https://uofu.box.com/s/lhk292bcpif3hcqhgi7w5oj0kks5hu1c)
 - Jan 18, 2024: More Unix, The Human Genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
@@ -40,6 +39,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 
 ### Out of Date, Ignore for now
 
+- [reading assignment: 01-Brief-History-of-Bioinformatics.pdf](articles/01-Brief-History-of-Bioinformatics.pdf)
 
 - [reading assignment: 02-Human-Genome-Review.pdf](articles/02-Human-Genome-Review.pdf)
 - Jan 18, 2022: Intro to UNIX, Part 3 and Intro to the Human Genome
