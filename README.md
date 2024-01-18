@@ -21,13 +21,23 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 
 ### Course lecture slides
 - [reading assignment: 01-Brief-History-of-Bioinformatics.pdf](articles/01-Brief-History-of-Bioinformatics.pdf)
-- Jan 9, 2024: Course overview and Intro to UNIX
+- Jan 9, 2024: Introductions, course overview,  connecting to server
     - [slides](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=idl6oq-MxbM)
-- Jan 11, 2024: Intro to UNIX, Part 2
+- Jan 11, 2024: Intro to Unix
+    - [slides]([https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing](https://docs.google.com/presentation/d/1B8kvetTDwUe-d7hZuV2NufVOMPM7MCxh_MyP-n9yDZo/edit?usp=sharing))
+    - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
+- Jan 16, 2024: Intro to Unix, Part 2
     - [slides](https://docs.google.com/presentation/d/1YSXYqCSHUZGRVr00oTttv_v1u83ccPLpF5_TMtW0iRI/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
-<!--      
+- Jan 18, 2024: More Unix, The Human Genome
+    - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=GIGIUMBumME)
+
+
+### Out of Date, Ignore for now
+
+
 - [reading assignment: 02-Human-Genome-Review.pdf](articles/02-Human-Genome-Review.pdf)
 - Jan 18, 2022: Intro to UNIX, Part 3 and Intro to the Human Genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
