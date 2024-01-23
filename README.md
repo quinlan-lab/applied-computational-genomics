@@ -36,7 +36,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 18, 2024: More Unix, The Human Genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
-
+- Jan 23, 2024: Finding patterns in the human genome
+    - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=ngpwuFh7H5M)
 
 ### Out of Date, Ignore for now
 
