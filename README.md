@@ -7,7 +7,7 @@
 - TA Hours (Zoom links pinned to `#general` in the course Slack :
     - Reilly Falter: Weds, 3-4 PM
     - Scott Pew: Mons, 10-11 AM
-- [Homework Submission Link](https://uofu.app.box.com/f/462f5bfaaeb14f8ebb2b3c25f0cfab59)
+
 
 
 ### Overview
