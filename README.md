@@ -39,6 +39,19 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 23, 2024: Finding patterns in the human genome
     - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=ngpwuFh7H5M)
+- Jan 25, 2022: DNA sequencing technologies
+    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
+- Jan 29, 2022: Then FASTQ Format
+    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
+- Jan 31, 2022: Sequence mapping and alignment
+    - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
+    - [youtube](https://youtu.be/QuuKYEp5EUA)
+    - Homework #2: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md
+        - due Feb 13 at 11:59PM
+        - show all commands used
+        - post answers in a plain text file as (replace with your UNID) `UNID.hw2.txt` to this [link](https://uofu.app.box.com/f/ea64f0521a0643fcb77661d1772de01e)
 
 ### Out of Date, Ignore for now
 
