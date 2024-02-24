@@ -39,19 +39,45 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 23, 2024: Finding patterns in the human genome
     - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=ngpwuFh7H5M)
-- Jan 25, 2022: DNA sequencing technologies
+- Jan 25, 2024: DNA sequencing technologies
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
-- Jan 29, 2022: Then FASTQ Format
+- Jan 30, 2024: Then FASTQ Format
     - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
-- Jan 31, 2022: Sequence mapping and alignment
+- Feb 1, 2024: Sequence mapping and alignment
     - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
     - [youtube](https://youtu.be/QuuKYEp5EUA)
     - Homework #2: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw2-md
         - due Feb 13 at 11:59PM
         - show all commands used
         - post answers in a plain text file as (replace with your UNID) `UNID.hw2.txt` to this [link](https://uofu.app.box.com/f/ea64f0521a0643fcb77661d1772de01e)
+- Feb 6, 2024: SAM/BAM format, samtools, IGV
+    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
+- Feb 8, 2024: SAM/BAM format, samtools, IGV, continued
+    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
+- Feb 13, 2024: Genetic Variation
+    - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
+- Feb 15, 2024: SNP and INDEL discovery, binomial random variables
+    - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
+- Feb 20, 2024: Poisson Processes in Biology
+    - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
+    - [youtube](https://youtu.be/zS13juQqsFU)
+    - Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-2024-md
+        - due Feb 28 at 11:59PM
+        - show all commands used
+        - post answers in a plain text file as (replace with your UNID) `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/570e317e71ba4ff1afdbe296a93f3dbd)
+- Feb 22, 2024: VCF format and tools
+    - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
+- Feb 26, 2024: VCF annotation and interpetation
+    - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
+- Feb 28, 2024: Group Project Introduction
 
 ### Out of Date, Ignore for now
 
