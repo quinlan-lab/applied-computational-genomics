@@ -68,7 +68,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
     - [youtube](https://youtu.be/zS13juQqsFU)
     - Homework #3: https://gist.github.com/arq5x/c0eb84bce2086fbfbe9184668ef87b31#file-hw3-2024-md
-        - due Feb 28 at 11:59PM
+        - due Feb 29 at 11:59PM
         - show all commands used
         - post answers in a plain text file as (replace with your UNID) `UNID.hw3.txt` to this [link](https://uofu.app.box.com/f/570e317e71ba4ff1afdbe296a93f3dbd)
 - Feb 22, 2024: VCF format and tools
