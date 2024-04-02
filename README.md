@@ -78,7 +78,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
 - Feb 28, 2024: Group Project Introduction
-
+- Apr 2, 2024: Homework #4
+    - due at 11:59 PM
+    - post answers in a plain text file as (replace with your UNID) `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/c2b1c395bed14d198ca83e8f1dae39e5)
 ### Out of Date, Ignore for now
 
 - [reading assignment: 01-Brief-History-of-Bioinformatics.pdf](articles/01-Brief-History-of-Bioinformatics.pdf)
