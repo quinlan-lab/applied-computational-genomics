@@ -82,7 +82,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
     - due at 11:59 PM
     - post answers in a plain text file as (replace with your UNID) `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/c2b1c395bed14d198ca83e8f1dae39e5)
 - Apr 4, 2024: Introduction to generalized linear models (GLMs)
-    - [slides](slides/applied_comp_gen.html)
+    - [slides](https://html-preview.github.io/?url=https://github.com/quinlan-lab/applied-computational-genomics/blob/master/slides/applied_comp_gen.html)
 
 ### Out of Date, Ignore for now
 
