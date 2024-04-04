@@ -81,6 +81,9 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Apr 2, 2024: Homework #4
     - due at 11:59 PM
     - post answers in a plain text file as (replace with your UNID) `UNID.hw4.txt` to this [link](https://uofu.app.box.com/f/c2b1c395bed14d198ca83e8f1dae39e5)
+- Apr 4, 2024: Introduction to generalized linear models (GLMs)
+    - [slides](slides/applied_comp_gen.html)
+
 ### Out of Date, Ignore for now
 
 - [reading assignment: 01-Brief-History-of-Bioinformatics.pdf](articles/01-Brief-History-of-Bioinformatics.pdf)
